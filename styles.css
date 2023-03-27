@@ -2,6 +2,9 @@ html{
   /*for pc light theme*/
   background: url(images/80565c91f1516df56ea98b90b496d525.jpeg);
 }
+div {
+  background: rgba(255, 255, 255, 0.5);
+}
 @media (prefers-color-scheme: dark) and (min-width: 1280px) {
   /*for pc dark theme*/
   html {
