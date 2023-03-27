@@ -4,8 +4,10 @@ html{
 }
 div {
   background: rgba(255, 255, 255, 0.5);
+  margin: auto;
+  width: 75%;
 }
-@media (prefers-color-scheme: dark) and (min-width: 1280px) {
+@media (prefers-color-scheme: dark) {
   /*for pc dark theme*/
   html {
     background: url(images/4bbe7577178771c67a7ee71ef36e82a4.jpg);
