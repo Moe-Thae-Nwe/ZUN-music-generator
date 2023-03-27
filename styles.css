@@ -1,34 +1,34 @@
 html{
   /*for pc light theme*/
-  background: url(https://mobimg.b-cdn.net/v3/fetch/80/80565c91f1516df56ea98b90b496d525.jpeg);
+  background: url(images/80565c91f1516df56ea98b90b496d525.jpeg);
 }
 @media (prefers-color-scheme: dark) and (min-width: 1280px) {
   /*for pc dark theme*/
   html {
-    background: url(https://i.pinimg.com/736x/4b/be/75/4bbe7577178771c67a7ee71ef36e82a4.jpg);
+    background: url(images/4bbe7577178771c67a7ee71ef36e82a4.jpg);
   }
 }
 @media (prefers-color-scheme: light) and (max-width: 991px) {
   /*for tablet light theme*/
   html {
-    background: url(https://w0.peakpx.com/wallpaper/598/233/HD-wallpaper-touhou-dress-umbrella-sky-monochrome-sketch-city-yakumo-yukari-long-hair.jpg);
+    background: url(images/HD-wallpaper-touhou-dress-umbrella-sky-monochrome-sketch-city-yakumo-yukari-long-hair.jpg);
   }
 }
 @media (prefers-color-scheme: dark) and (max-width: 991px) {
   /*for tablet dark theme*/
   html {
-    background: url(https://c4.wallpaperflare.com/wallpaper/756/664/904/video-games-touhou-minimalism-japanese-clothes-wallpaper-preview.jpg);
+    background: url(images/video-games-touhou-minimalism-japanese-clothes-wallpaper-preview.jpg);
   }
 }
-/*
 @media (prefers-color-scheme: light) and (max-width: 479px) {
+  /*for phone light theme*/
   html {
-    background: url();
+    background: url(images/890972.jpg);
   }
 }
 @media (prefers-color-scheme: dark) and (max-width: 479px) {
+  /*for phone dark theme*/
   html {
-    background: url();
+    background: url(images/838367.jpg);
   }
 }
-*/
