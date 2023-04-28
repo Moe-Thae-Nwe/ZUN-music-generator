@@ -1,39 +1,10 @@
 html{
   /*for pc light theme*/
-  background: url(80565c91f1516df56ea98b90b496d525.jpeg);
+  background: url(images.png);
 }
+
 div {
   background: rgba(255, 255, 255, 0.5);
   margin: auto;
   width: 75%;
-}
-@media (prefers-color-scheme: dark) {
-  /*for pc dark theme*/
-  html {
-    background: url(4bbe7577178771c67a7ee71ef36e82a4.jpg);
-  }
-}
-@media (prefers-color-scheme: light) and (max-width: 991px) {
-  /*for tablet light theme*/
-  html {
-    background: url(HD-wallpaper-touhou-dress-umbrella-sky-monochrome-sketch-city-yakumo-yukari-long-hair.jpg);
-  }
-}
-@media (prefers-color-scheme: dark) and (max-width: 991px) {
-  /*for tablet dark theme*/
-  html {
-    background: url(video-games-touhou-minimalism-japanese-clothes-wallpaper-preview.jpg);
-  }
-}
-@media (prefers-color-scheme: light) and (max-width: 479px) {
-  /*for phone light theme*/
-  html {
-    background: url(890972.jpg);
-  }
-}
-@media (prefers-color-scheme: dark) and (max-width: 479px) {
-  /*for phone dark theme*/
-  html {
-    background: url(838367.jpg);
-  }
 }
