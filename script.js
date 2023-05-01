@@ -38,6 +38,8 @@ const name = [//Touhou Reiiden ~ Highly Responsive to Prayers
   "Welcome to the Moon Tour", "Greenwich in the Sky", "The Wheelchair's Future in Space", "Satellite Café Terrace", "G Free", "Celestial Wizardry ~ Magical Astronomy", "The Far Side of the Moon", 
   //Yougakudan
   "Japanese Saga", "Child of Are", 
+  //Touhou Sangetsusei ~ Eastern and Little Nature Deity
+  "Sunny Rutile Flection", "Can't Sleep Because It's Nighttime", "Like the Brilliance of Fairies", 
 ]
 function generate() {
   let rand = Math.floor(Math.random() * name.length)
