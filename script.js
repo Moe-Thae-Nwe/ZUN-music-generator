@@ -35,7 +35,9 @@ const name = [//Touhou Reiiden ~ Highly Responsive to Prayers
   //Bouyu Toukaidou ~ Retrospective 53 Minutes
   "Hiroshige No. 36 ~ Neo Super-Express", "Blue Sea of 53 Minutes", "Legend of Aokigahara", "The Purest Sky and Sea", 
   //Oozora Majutsu ~ Magical Astronomy
-  "Welcome to the Moon Tour", "Greenwich in the Sky", "The Wheelchair's Future in Space", "Satellite Café Terrace", "G Free", "Celestial Wizardry ~ Magical Astronomy", "The Far Side of the Moon"
+  "Welcome to the Moon Tour", "Greenwich in the Sky", "The Wheelchair's Future in Space", "Satellite Café Terrace", "G Free", "Celestial Wizardry ~ Magical Astronomy", "The Far Side of the Moon", 
+  //Yougakudan
+  "Japanese Saga", "Child of Are", 
 ]
 function generate() {
   let rand = Math.floor(Math.random() * name.length)
