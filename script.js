@@ -11,7 +11,9 @@ const song = [//Highly Responsive to Prayers
   //Shuusou Gyoku
   "Autumn Frost Orb ~ Clockworks", "False Strawberry", "Primrose Shiver", "Fantastic Imperial Capital", "Disastrous Gemini", "Illusion of Flowers, Sky of Scarlet Dreams", "Firmament Army", "Illusionary Sputnik Night", "Mechanical Circus ~ Reverie", "Illusionary Girl from Canaveral", "Magical Girl's Crusade", "Antique Terror", "Dream Machine ~ Innocent Power", "Fantasy Science ~ Doll's Phantom", "Girl's Divinity ~ Pandora's Box", "Silk Road Alice", "The Witches' Ball ~ Magus", "Dichromantic Lotus Butterfly ~ Ancients", "Herselves", "Titled Maid", "Fly Above Hatoyama at Night",
   //Torte Le Magic
-  "Witch of Love Potion", "Magical and Hopeless", "Sacred Battle"
+  "Witch of Love Potion", "Magical and Hopeless", "Sacred Battle",
+  //Kioh Gyoku
+  "Rare Venerable Orb ~ Fairy Dance", "Velvet Maiden's War ~ Velvet Battle", "Castle Explorer -in the Sky-", "Orphic Poetry ~ Pseudoclassic", "New Illusion ~ New Fantasy", "Holy Knight of Orléans", "My Maid, Sweet Maid", "Lovely Mound of Cherry Blossoms ~ Flower of Japan", "Warrior Maiden ~ Heart of Valkyrie", "Enigmatic Doll ~ God Knows"
 ]
 
 const src = [//Highly Responsive to Prayers
@@ -27,7 +29,9 @@ const src = [//Highly Responsive to Prayers
   //Shuusou Gyoku
   "Shuusou Gyoku Title screen theme", "Shuusou Gyoku Stage 1 Theme", "Shuusou Gyoku Milia's Theme", "Shuusou Gyoku Stage 2 Theme", "Shuusou Gyoku Mei and Mai's Theme", "Shuusou Gyoku Stage 3 Theme", "Shuusou Gyoku Gates' Theme", "Shuusou Gyoku Stage 4 Theme", "Shuusou Gyoku Marie's Theme", "Shuusou Gyoku Stage 5 Theme", "Shuusou Gyoku Erich's Theme", "Shuusou Gyoku Stage 6 Theme", "Shuusou Gyoku Vivit's First Theme", "Shuusou Gyoku Vivit's Second Theme", "Shuusou Gyoku Vivit's Third Theme", "Shuusou Gyoku Extra Stage Theme", "Shuusou Gyoku Kirisame Marisa's Theme", "Shuusou Gyoku Hakurei Reimu's Theme", "Shuusou Gyoku Ending Theme", "Shuusou Gyoku Name Register Theme", "Shuusou Gyoku Unused",
   //Torte Le Magic
-  "Torte Le Magic Stage theme", "Torte Le Magic Chou's theme", "Torte Le Magic Cointreau's theme"
+  "Torte Le Magic Stage theme", "Torte Le Magic Chou's theme", "Torte Le Magic Cointreau's theme", 
+  //Kioh Gyoku
+  "Kioh Gyoku Title Screen Theme", "Kioh Gyoku VIVIT's Theme", "Kioh Gyoku Gates' Theme", "Kioh Gyoku Mei and Mai's Theme", "Kioh Gyoku Milia's Theme", "Kioh Gyoku Marie's Theme", "Kioh Gyoku Erich's Theme", "Kioh Gyoku Yuuka's Theme", "Kioh Gyoku Morgan's Theme", "Kioh Gyoku Muse's Theme"
 ]
 
 const vid = [//Highly Responsive to Prayers
@@ -43,7 +47,8 @@ const vid = [//Highly Responsive to Prayers
   //Shuusou Gyoku
   "https://youtu.be/zw0GvR6T7qc", "https://youtu.be/STKVjgK8QIo", "https://youtu.be/F6-df6Ijw1U", "https://youtu.be/23HdMwp3x2Q", "https://youtu.be/vrcmLVfsRfY", "https://youtu.be/G-Y94R7o-_8", "https://youtu.be/9WuU9H0LaEY", "https://youtu.be/d4ArkqK1acA", "https://youtu.be/NlGl4FSRpdo", "https://youtu.be/N03DpfxZ48M", "https://youtu.be/GcCpKnOsbNA", "https://youtu.be/_ZfiOFsemZ0", "https://youtu.be/wPAFxtI2jX4", "https://youtu.be/aTPuqKVrps0", "https://youtu.be/GpvAMfj--d0", "https://youtu.be/NqdqIpBYb04", "https://youtu.be/jMDe1O7zl7I", "https://youtu.be/-iY1GQCfSbc", "https://youtu.be/u2Yp4_i52Ic", "https://youtu.be/j4VA8qidLwU", "https://youtu.be/OxZ0PQY0zTE",
   //Torte Le Magic
-  "https://youtu.be/n7ovq1tu6Ek", "https://youtu.be/khLhZ4nUKl8", "https://youtu.be/lDlvwgKLqYc"
+  "https://youtu.be/n7ovq1tu6Ek", "https://youtu.be/khLhZ4nUKl8", "https://youtu.be/lDlvwgKLqYc", 
+  //Kioh Gyoku
 ]
 
 const comment = [//Highly Responsive to Prayers
@@ -63,7 +68,7 @@ const comment = [//Highly Responsive to Prayers
 ]
 
 function generate() {
-  let randint = Math.floor(Math.random() * song.length);
+  let randint = Math.floor(Math.random() * comment.length);
   document.getElementById("name").innerText = song[randint];
   document.getElementById("source").innerText = src[randint];
   document.getElementById("vid").src = vid[randint];
