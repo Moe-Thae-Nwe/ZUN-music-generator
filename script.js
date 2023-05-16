@@ -15,7 +15,9 @@ const song = [//Highly Responsive to Prayers
   //Kioh Gyoku
   "Rare Venerable Orb ~ Fairy Dance", "Velvet Maiden's War ~ Velvet Battle", "Castle Explorer -in the Sky-", "Orphic Poetry ~ Pseudoclassic", "New Illusion ~ New Fantasy", "Holy Knight of Orléans", "My Maid, Sweet Maid", "Lovely Mound of Cherry Blossoms ~ Flower of Japan", "Warrior Maiden ~ Heart of Valkyrie", "Enigmatic Doll ~ God Knows",
   //Embodiment of Scarlet Devil
-  "A Dream More Scarlet than Red", "A Soul as Scarlet as a Ground Cherry", "Appariations Stalk the Night", "Lunate Elf", "Tomboyish Girl in Love", "Shanghai Scarlet Teahouse ~ Chinese Tea", "Shanghai Alice of Meiji 17", "Voile, the Magic Library", "Locked Girl ~ The Girl's Sealed Room", "The Maid and the Pocket Watch of Blood", "Lunar Clock ~ Luna Dial", "The Young Descendant of Tepes", "Septette for the Dead Princess", "The Centennial Festival for Magical Girls", "U.N Owen Was Her?", "An Eternity More Transient than Scarlet", "Scarlet Chamber ~ Eastern Dream..."
+  "A Dream More Scarlet than Red", "A Soul as Scarlet as a Ground Cherry", "Appariations Stalk the Night", "Lunate Elf", "Tomboyish Girl in Love", "Shanghai Scarlet Teahouse ~ Chinese Tea", "Shanghai Alice of Meiji 17", "Voile, the Magic Library", "Locked Girl ~ The Girl's Sealed Room", "The Maid and the Pocket Watch of Blood", "Lunar Clock ~ Luna Dial", "The Young Descendant of Tepes", "Septette for the Dead Princess", "The Centennial Festival for Magical Girls", "U.N Owen Was Her?", "An Eternity More Transient than Scarlet", "Scarlet Chamber ~ Eastern Dream...",
+  //Dolls in Pseudo Paradise
+  "Legend of Hourai", "Dichromantic Lotus Butterfly ~ Red and White", "Lovely Mound of Cherry Blossoms ~ Japanese Flower", "Shanghai Alice of Meiji 17", "Eastern Tale of Fancy", "Enigmatic Doll", "Circus Reverie", "Forest of Dolls", "Witch of Love Potion", "Reincarnation", "U.N. Owen was Her?", "Eternal Shrine Maiden", "The Strange Everyday Life of the Flying Shrine Maiden"
 ]
 
 const src = [//Highly Responsive to Prayers
