@@ -60,6 +60,8 @@ const vid = [//Highly Responsive to Prayers
   "https://youtu.be/6_ytClfP7fw", "https://youtu.be/ZKbx7tqfA8g", "https://youtu.be/_DH9sCQ4pvQ", "https://youtu.be/UGb2XKxZhvQ", "https://youtu.be/1xB6M2OSkMk", "https://youtu.be/pjQAl-35WoE", "https://youtu.be/C2_p0MipVYc", "https://youtu.be/A3PFpprQvTU", "https://youtu.be/1mVwdNs5Ba8", "https://youtu.be/HUSrvbTG8is", 
   //Embodiment of Scarlet Devil
   "https://youtu.be/cIW3x2oJEGM", "https://youtu.be/pPnRcrseqwE", "https://youtu.be/0_1psdwYbWY", "https://youtu.be/D952jjTLw1k", "https://youtu.be/qQfy3r3Bpzc", "https://youtu.be/6EQT-pgyhfc", "https://youtu.be/_GWsS8GUWMA", "https://youtu.be/XOE4sMlNCUM", "https://youtu.be/nurIkzu1-v8", "https://youtu.be/1BYio2mDqK4", "https://youtu.be/mMQ_0hHxQa0", "https://youtu.be/Ih0A7qyThOI", "https://youtu.be/6SRXSaBf36E", "https://youtu.be/DQ6ZsG11OmM", "https://youtu.be/mokupSMH9_Y", "https://youtu.be/1KNm6CuCti0", "https://youtu.be/l9AoReAqJyk"
+  //Dolls in Pseudo Paradise
+  "https://youtu.be/3Hzdw8Moi9k", "https://youtu.be/6nigwLDh5-A", "https://youtu.be/4dbNmH3Pr5E", "https://youtu.be/b0qYr-HH3EI", "https://youtu.be/c32q2TJediE", "https://youtu.be/xFTL13cE7hE", "https://youtu.be/Zng-s4tme8k", "https://youtu.be/V9Z8TefG6Ao", "https://youtu.be/ZpKHYITdqCg", "https://youtu.be/4cCvuNNNUwk", "https://youtu.be/xZOCGy4erXs", "https://youtu.be/A-nGJ9JGnRg", "https://youtu.be/KLcU8VJSZjM"
 ]
 
 const comment = [//Highly Responsive to Prayers
