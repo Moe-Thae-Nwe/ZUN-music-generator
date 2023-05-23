@@ -29,7 +29,9 @@ const song = [//Highly Responsive to Prayers
   //Changeability of Strange Dream
   "Kid's Festival ~ Innocent Treasures", "Dream of Huaxu", "Shanghai Scarlet Teahouse ~ Chinese Tea", "Voyage 1969", "Boys and Girls of the Age of Science", "Retribution for the Eternal Night ~ Imperishable Night", "Night Falls ~ Evening Star", "Doll Judgement ~ The Girl who Played with People's Shapes", "Border Between Dreams and Reality", "Fantasy Machine ~ Phantom Factory", "Mystical Maple ~ Eternal Dream",
   //Bohemian Archive in Japanese Red
-  "Wind God Girl", "Adventure of the Lovestruck Tomboy", "Flower Reflecting Mound ~ after Higan Retour"
+  "Wind God Girl", "Adventure of the Lovestruck Tomboy", "Flower Reflecting Mound ~ after Higan Retour",
+  //Phantasmagoria of Flower View
+  "Flower Reflecting Mound ~ Higan Retour", "Spring Lane ~ Colorful Path", "Oriental Dark Flight", "Flowering Night", "Eastern Ghostly Dream ~ Ancient Temple", "Lunatic Eyes ~ Invisible Full Moon", "Adventure of the Lovestruck Tomboy", "Phantom Band ~ Phantom Ensemble", "Deaf to All but the Song ~ Flower Mix", "White Flag of Usa Shrine", "Wind God Girl (Short Version)", "Poison Body ~ Forsaken Doll", "Gensokyo, Past and Present ~ Flower Land", "Higan Retour ~ Riverside View", "Eastern Judgement in the Sixtieth Year ~ Fate of Sixty Years", "The Mound Where the Flowers Reflect", "Mount of Shigan", "The Flowers Remain in Fantasy", "Flower of Soul ~ Another Dream..."
 ]
 
 const src = [//Highly Responsive to Prayers
