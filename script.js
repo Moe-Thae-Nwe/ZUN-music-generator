@@ -27,7 +27,9 @@ const song = [//Highly Responsive to Prayers
   //Immaterial and Missing Power
   "Forgathering Dream", "Eastern Mystical Tale of Romance", "Maiden's Capriccio", "Love-Colored Magic", "The Witches' Ball", "The Maid and the Pocket Watch of Blood", "Lunar Clock ~ Luna Dial", "The Doll Maker of Bucuresti", "Doll Judgement", "Locked Girl ~ The Girl's Sealed Room", "Voile, the Magic Library", "Hiroari Shoots a Strange Bird ~ Till When?", "Eastern Ghostly Dream ~ Ancient Temple", "Septette for a Dead Princess", "Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life", "Demystify Feast", "Night Falls ~ Evening Star", "The Fabled Land of Onigashima ~ Missing Power", "End of Summer", "Eastern Forgathering Dream", "Demonic Place", "The Moon", "Wanderings", "Inner Heart", "Intermezzo", "Eastern Wind", "Silence", "Skygazer", "Solitary Place", "Unexpected Visitor", "Scarlet Night", "Swift Battle", "Bad Omen", "Broken Moon",
   //Changeability of Strange Dream
-  "Kid's Festival ~ Innocent Treasures", "Dream of Huaxu", "Shanghai Scarlet Teahouse ~ Chinese Tea", "Voyage 1969", "Boys and Girls of the Age of Science", "Retribution for the Eternal Night ~ Imperishable Night", "Night Falls ~ Evening Star", "Doll Judgement ~ The Girl who Played with People's Shapes", "Border Between Dreams and Reality", "Fantasy Machine ~ Phantom Factory", "Mystical Maple ~ Eternal Dream"
+  "Kid's Festival ~ Innocent Treasures", "Dream of Huaxu", "Shanghai Scarlet Teahouse ~ Chinese Tea", "Voyage 1969", "Boys and Girls of the Age of Science", "Retribution for the Eternal Night ~ Imperishable Night", "Night Falls ~ Evening Star", "Doll Judgement ~ The Girl who Played with People's Shapes", "Border Between Dreams and Reality", "Fantasy Machine ~ Phantom Factory", "Mystical Maple ~ Eternal Dream",
+  //Bohemian Archive in Japanese Red
+  "Wind God Girl", "Adventure of the Lovestruck Tomboy", "Flower Reflecting Mound ~ after Higan Retour"
 ]
 
 const src = [//Highly Responsive to Prayers
