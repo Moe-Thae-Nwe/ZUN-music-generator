@@ -101,7 +101,9 @@ const vid = [//Highly Responsive to Prayers
   //Changeability of Strange Dream
   "https://youtu.be/yn3GPjhtYJ8", "https://youtu.be/YLQYHjuC9bo", "https://youtu.be/XlwbAAnTeVE", "https://youtu.be/F9k3GZ77ueU", "https://youtu.be/wg3eJJHdPCM", "https://youtu.be/q1Gcsix4VpY", "https://youtu.be/3jFkIK4iBJM", "https://youtu.be/0SqJ8QmQAa4", "https://youtu.be/JMacpzYseQo", "https://youtu.be/jgU7g0UGNkQ", "https://youtu.be/0aOuhRHQLN0",
   //Bohemian Archive in Japanese Red
-  "https://youtu.be/INgl2eSTmLg", "https://youtu.be/hOvEeJP-Y7E", "https://youtu.be/7rmtfouVI-o"
+  "https://youtu.be/INgl2eSTmLg", "https://youtu.be/hOvEeJP-Y7E", "https://youtu.be/7rmtfouVI-o",
+  //Phantasmagoria of Flower View
+  "https://youtu.be/vc-8ZM9aHKo", "https://youtu.be/5xJQ0aHjQwY", "https://youtu.be/Gm_MjQG4vPE", "https://youtu.be/R3u3NpOplmM", "https://youtu.be/xCu7c_fLOhM", "https://youtu.be/I50dNWfC19I", "https://youtu.be/VtfzyDGZdd0", "https://youtu.be/If3wvwbPDkQ", "https://youtu.be/TPtlR5rU-LQ", "https://youtu.be/RKyOb5-m96U", "https://youtu.be/25CflTbkcjs", "https://youtu.be/a6sSccfpuJ4", "https://youtu.be/tFemvMsbipw", "https://youtu.be/omAO0b9rGBs", "https://youtu.be/uYfOzeYa6Xo", "https://youtu.be/piEF6k8MCn8", "https://youtu.be/Hg4aInuHbfg", "https://youtu.be/TYify1hFqM0", "https://youtu.be/DjHTgdFRSrg"
 ]
 
 const comment = [//Highly Responsive to Prayers
@@ -135,7 +137,9 @@ const comment = [//Highly Responsive to Prayers
   //Changeability of Strange Dream
   "", "", "", "", "", "", "", "", "", "", "",
   //Bohemian Archive in Japanese Red
-  "", "", ""
+  "", "", "",
+  //Phantasmagoria of Flower View
+  "The title screen theme. \n It's the same old tune, yep. \n This is probably one of the silliest parts of the game itself, but it's remained constant over time. \n Maybe it's not silly enough. But this is Gensokyo.", "Hakurei Reimu's theme. \n I tried to write this one so you would feel spring itself through the piece. Not purely Japanese, but more like Touhou style. \n I thought it'd be good to not have it wear down on people during long battles, so I controlled its intensity, but compared to other, more intense pieces, it seems pretty sedate. Like Reimu?", "Kirisame Marisa's theme. \n The way I first composed this one made Marisa sound like a bad guy, so I added on a bit of playful antiquity to it. \n In doing so, that antiquity gave it a hind of Middle Eastern flair, which could be a problem. However, given th nature of this game, I'd like to believe this properly reflects the endless stream of action and suspense that happens.", "Izayoi Sakuya's theme. \n Since all of Sakuya's pieces from Embodiment of Scarlet Devil were all very hard and driving, I tried to make this one more human, or more fitting for a first stage. \n I can't explain why I don't think this melody fits, but how about you? \n What's weird to me is that if you think it's going to be an Asian piece, it sounds like it, but treat it as Western and it sounds like that too. If you think it's childlike, it's childlike, and if you think it's more mature, it sounds that way. Am I the only one who thinks so?", "Konpaku Youmu's theme. \n It's not the Perfect Cherry Blossom version, but the arranged vesion recorded in Ghostly Field Club. It draws out the coldness of the land of the dead. \n I used the boss themes for other characters, but here, I thought this one fit Youmu well, so I used it. Rather, I liked this one.", "Reisen Udongein Inaba's theme. \n I made a few tweaks to the original to make it a little more nostalgic. I had my reasons for the original, but for this game, it may have been a little too much. Almost like \"why's it so serious?\" Well, Imperishable Night's pieces were all just a little too much. \n Because it was about night and time... \n Well, maybe that doesn't make any sense. Could you say this one's about flowers and idiots... (oops)"
 ]
 
 function generate() {
