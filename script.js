@@ -119,7 +119,9 @@ const vid = [//Highly Responsive to Prayers
   //Immaterial and Missing Power OST
   "https://youtu.be/gxJsVW3tSFI", "https://youtu.be/i4OQYe7xM4E", "https://youtu.be/ckyxqhtoeGg", "https://youtu.be/4AGPzCi9hFw", "https://youtu.be/uVeHourfX7U", "https://youtu.be/EtSlpuwQQkM", "https://youtu.be/JLsu5_y11yU", "https://youtu.be/EIMUhp3NCN4", "https://youtu.be/VYKCSolNn3c", "https://youtu.be/GFzMtkAy8I0", "https://youtu.be/6efpvDGV9zg", "https://youtu.be/7ig1s8BKuYE", "https://youtu.be/on9fMOdfKgQ", "https://youtu.be/MXyDhr7qoA8", "https://youtu.be/FAuI6znXB7s", "https://youtu.be/djQYlPCZPI0", "https://youtu.be/zre3ZQxQqrc", "https://youtu.be/wRP_qjMfHrk", "https://youtu.be/eQqfyjTfP0Q", "https://youtu.be/-RPpPnPTaSU", "https://youtu.be/hNPnR8w6t30", "https://youtu.be/FUT8ZR69RCw", "https://youtu.be/Gto49Gj9SfU", "https://youtu.be/lT3Zn17w_2k", "https://youtu.be/OaFuPzIqERA", "https://youtu.be/ycJXMMGw44M", "https://youtu.be/efP0uso43TM", "https://youtu.be/5AHSmrfaYOY", "https://youtu.be/w349jr2TSzc", "https://youtu.be/wzDjE0m8Gyc", "https://youtu.be/uVaSoI7LOkQ", "https://youtu.be/oq6DdtdLvAc", "https://youtu.be/4Huqbj5tcpw", "https://youtu.be/OMGVxTB36lo", "https://youtu.be/JSFtHDaGLFE", "https://youtu.be/6nla924od4s", "https://youtu.be/nzrPjd7CjPI", "https://youtu.be/4oaZkc1FbzM", "https://youtu.be/y96jRSSFiRU", "https://youtu.be/6PLgMyZMbzY", "https://youtu.be/NbSOeo2u3GA", "https://youtu.be/mb2fVYx6C5w", "https://youtu.be/A3fOG4BZPAc", "https://youtu.be/ecy6knJNhsc", "https://youtu.be/eRuSlr21XsY", "https://youtu.be/HRu4k1cQaK8", "https://youtu.be/RGGrR_Zt02M",
   //Seasonal Dream Vision
-  "https://youtu.be/pigZsd1IvK8"
+  "https://youtu.be/pigZsd1IvK8",
+  //Shoot the Bullet
+  "https://youtu.be/fVzfz75JvwM", "https://youtu.be/Sk9kCHmQy4M", "https://youtu.be/xebXr0Rzh4Q", "https://youtu.be/KR9RSo3P80M", "https://youtu.be/c-9VnF19J1c", "https://youtu.be/L-cWqgWIeEU"
 ]
 
 const comment = [//Highly Responsive to Prayers
