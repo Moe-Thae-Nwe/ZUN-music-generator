@@ -37,7 +37,9 @@ const song = [//Highly Responsive to Prayers
   //Seasonal Dream Vision
   "Eastern Judgement in the Sixtieth Year",
   //Shoot the Bullet
-  "Tengu's Notebook ~ Mysterious Note", "Wind Circulation ~ Wind Tour", "Tengu is Watching ~ Black Eyes", "Sleepless Night of the Eastern Country", "Retrospective Kyoto", "Wind God Girl"
+  "Tengu's Notebook ~ Mysterious Note", "Wind Circulation ~ Wind Tour", "Tengu is Watching ~ Black Eyes", "Sleepless Night of the Eastern Country", "Retrospective Kyoto", "Wind God Girl",
+  //Retrospective 53 Minutes
+  "Hiroshige No. 36 ~ Neo Super-Express", "Blue Sea of 53 Minutes", "Flight of the Bamboo Cutter ~ Lunatic Princess", "Higan Retour ~ Riverside View", "Legend of Aokigahara", "White Flag of Usa Shrine", "Reach for the Moon, Immortal Smoke", "Retrospective Kyoto", "Locked Girl ~ The Girl's Sealed Room", "Gensokyo Millennium ~ History of the Moon", "The Purest Sky and Sea"
 ]
 
 const src = [//Highly Responsive to Prayers
