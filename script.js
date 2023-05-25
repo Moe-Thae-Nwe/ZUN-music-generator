@@ -35,7 +35,9 @@ const song = [//Highly Responsive to Prayers
   //Immaterial and Missing Power OST
   "Wanderings", "Eastern Mystical Tale of Romance", "The Moon", "Love-Coloured Magic", "Eastern Wind", "The Maid and the Pocket Watch of Blood", "Intermezzo", "The Doll Maker of Bucuresti", "Demonic Place", "Locked Girl ~ The Girl's Sealed Room", "Inner Heart", "Hiroari Shoots a Strange Bird ~ Till When?", "Septette for a Dead Princess", "Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life", "Love-Coloured Magic Trial Ver", "Hiroari Shoots a Strange Bird Trial Ver", "Eastern Mystical Tale of Romance Second Card Arrange", "Love-Coloured Magic Second Card Arrange", "The Maid and the Pocket Watch of Blood Second Card Arrange", "The Doll Maker of Bucuresti Second Card Arrange", "Locked Girl Second Card Arrange", "Hiroari Shoots a Strange Bird Second Card Arrange", "Septette for a Dead Princess Second Card Arrange", "Forgathering Dream", "Maiden's Capriccio ~ Capriccio", "Silence", "The Witches' Ball", "Scarlet Night", "Lunar Clock ~ Luna Dial", "Solitary Place", "Doll Judgement", "Unexpected Visitor", "Voile, the Magic Library", "Bad Omen", "Eastern Ghostly Dream ~ Ancient Temple", "Skygazer", "Demystify Feast", "Swift Battle", "Night Falls ~ Evening Star", "Broken Moon", "The Fabled Land of Onigashima", "Eastern Forgathering Dream", "Demystify Feast (Arrange)", "Night Falls ~ Evening Star (Arrange)", "The Fabled Land of Onigashima (Arrange)", "Eastern Forgathering Dream (Arrange)",
   //Seasonal Dream Vision
-  "Eastern Judgement in the Sixtieth Year"
+  "Eastern Judgement in the Sixtieth Year",
+  //Shoot the Bullet
+  "Tengu's Notebook ~ Mysterious Note", "Wind Circulation ~ Wind Tour", "Tengu is Watching ~ Black Eyes", "Sleepless Night of the Eastern Country", "Retrospective Kyoto", "Wind God Girl"
 ]
 
 const src = [//Highly Responsive to Prayers
