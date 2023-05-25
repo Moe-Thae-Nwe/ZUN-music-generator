@@ -81,7 +81,9 @@ const src = [//Highly Responsive to Prayers
   //Seasonal Dream Vision
   "Touhou Shikoubana ~ Seasonal Dream Vision Track 13",
   //Shoot the Bullet
-  "Touhou Bunkachou ~ Shoot the Bullet Title and Menu Theme", "Touhou Bunkachou ~ Shoot the Bullet Photo Theme 1", "Touhou Bunkachou ~ Shoot the Bullet Photo Theme 2", "Touhou Bunkachou ~ Shoot the Bullet Photo Theme 3", "Touhou Bunkachou ~ Shoot the Bullet Photo Theme 4", "Touhou Bunkachou ~ Shoot the Bullet Photo Theme 5"
+  "Touhou Bunkachou ~ Shoot the Bullet Title and Menu Theme", "Touhou Bunkachou ~ Shoot the Bullet Photo Theme 1", "Touhou Bunkachou ~ Shoot the Bullet Photo Theme 2", "Touhou Bunkachou ~ Shoot the Bullet Photo Theme 3", "Touhou Bunkachou ~ Shoot the Bullet Photo Theme 4", "Touhou Bunkachou ~ Shoot the Bullet Photo Theme 5",
+  //Retrospective 53 Minutes
+  "Bouyu Toukaidou ~ Retrospective 53 Minutes Track 1", "Bouyu Toukaidou ~ Retrospective 53 Minutes Track 2", "Bouyu Toukaidou ~ Retrospective 53 Minutes Track 3", "Bouyu Toukaidou ~ Retrospective 53 Minutes Track 4", "Bouyu Toukaidou ~ Retrospective 53 Minutes Track 5", "Bouyu Toukaidou ~ Retrospective 53 Minutes Track 6", "Bouyu Toukaidou ~ Retrospective 53 Minutes Track 7", "Bouyu Toukaidou ~ Retrospective Track 8", "Bouyu Toukaidou ~ Retrospective 53 Minutes Track 9", "Bouyu Toukaidou ~ Retrospective 53 Minutes Track 10", "Bouyu Toukaidou ~ Retrospective 53 Minutes Track 11"
 ]
 
 const vid = [//Highly Responsive to Prayers
