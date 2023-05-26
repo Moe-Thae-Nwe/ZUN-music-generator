@@ -47,7 +47,9 @@ const song = [//Highly Responsive to Prayers
   //Perfect Memento in Strict Sense
   "Japanese Saga", "Child of Are", "Fly above Hatoyama at night - Power MIX",
   //Akyu's Untouched Score vol.2
-  "Bizarre Romantic Story ~ Mystic Square", "Dream Express", "Magic Square ~ Magic Square", "Dimension of Reverie", "Spiritual Heaven ~ Spiritual Heaven", "Romantic Children", "Plastic Mind", "Maple Wise", "Forbidden Magic ~ Forbidden Magic", "Crimson Maiden ~ Crimson Dead!!", "Treacherous Maiden ~ Judas Kiss", "the Last Judgement", "Doll of Misery ~ Doll of Misery", "End of the World ~ World's End", "Legendary Illusion ~ Infinite Being", "Alice in Wonderland", "The Grimoire of Alice", "Shinto Shrine", "Endless", "Eternal Paradise", "Mystic Dream", "Soul's Resting Place", "Peaceful Romancer"
+  "Bizarre Romantic Story ~ Mystic Square", "Dream Express", "Magic Square ~ Magic Square", "Dimension of Reverie", "Spiritual Heaven ~ Spiritual Heaven", "Romantic Children", "Plastic Mind", "Maple Wise", "Forbidden Magic ~ Forbidden Magic", "Crimson Maiden ~ Crimson Dead!!", "Treacherous Maiden ~ Judas Kiss", "the Last Judgement", "Doll of Misery ~ Doll of Misery", "End of the World ~ World's End", "Legendary Illusion ~ Infinite Being", "Alice in Wonderland", "The Grimoire of Alice", "Shinto Shrine", "Endless", "Eternal Paradise", "Mystic Dream", "Soul's Resting Place", "Peaceful Romancer",
+  //Akyu's Untouched Score vol.3
+  "Eastern Demon-Sealing Record ~ Pure Land Mandala", "Hakurei ~ Eastern Wind", "She's in a temper!!", "End of Daylight", "Power of Darkness", "World of Fantasies", "Bet on Death", "Himorogi, Burn in Violet", "Love-Colored Magic", "Eastern Demon-Sealing Record ~ Spectral Boisterous Dance", "Complete Darkness", "Extra Love", "The Tank Girl's Dream", "Forest of Tono", "Legendary Wonderland", "Hakurei Shrine Grounds", "Sunfall", "Demon-Sealing Finale"
 ]
 
 const src = [//Highly Responsive to Prayers
