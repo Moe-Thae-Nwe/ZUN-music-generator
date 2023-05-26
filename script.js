@@ -127,7 +127,7 @@ const vid = [//Highly Responsive to Prayers
   //Shoot the Bullet
   "https://youtu.be/fVzfz75JvwM", "https://youtu.be/Sk9kCHmQy4M", "https://youtu.be/xebXr0Rzh4Q", "https://youtu.be/KR9RSo3P80M", "https://youtu.be/c-9VnF19J1c", "https://youtu.be/L-cWqgWIeEU",
   //Retrospective 53 Minutes
-  
+  "https://youtu.be/MSfiGbqF2So", "https://youtu.be/bif_P9IBUSU", "https://youtu.be/vDUO9ioQIwA", "https://youtu.be/yuNLd2oHurA", "https://youtu.be/CfA3GZPDEIM", "https://youtu.be/w2gVa8edMqE", "https://youtu.be/kZHsuboczTc", "https://youtu.be/1ombYqs8_Wo", "https://youtu.be/KzURokQGeyc", "https://youtu.be/dEq7Rzo2CRU", "https://youtu.be/-ZSqwA-Ns5k"
 ]
 
 const comment = [//Highly Responsive to Prayers
