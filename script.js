@@ -45,7 +45,9 @@ const song = [//Highly Responsive to Prayers
   //Magical Astronomy
   "Welcome to the Moon Tour", "Greenwich in the Sky", "Sleepless Night of the Eastern Country", "The Wheelchair's Future in Space", "Demystify Feast", "Satellite Café Terrace", "G Free", "Celestial Wizardry ~ Magical Astronomy", "Necrofantasia", "The Far Side of the Moon",
   //Perfect Memento in Strict Sense
-  "Japanese Saga", "Child of Are", "Fly above Hatoyama at night - Power MIX"
+  "Japanese Saga", "Child of Are", "Fly above Hatoyama at night - Power MIX",
+  //Akyu's Untouched Score vol.2
+  "Bizarre Romantic Story ~ Mystic Square", "Dream Express", "Magic Square ~ Magic Square", "Dimension of Reverie", "Spiritual Heaven ~ Spiritual Heaven", "Romantic Children", "Plastic Mind", "Maple Wise", "Forbidden Magic ~ Forbidden Magic", "Crimson Maiden ~ Crimson Dead!!", "Treacherous Maiden ~ Judas Kiss", "the Last Judgement", "Doll of Misery ~ Doll of Misery", "End of the World ~ World's End", "Legendary Illusion ~ Infinite Being", "Alice in Wonderland", "The Grimoire of Alice", "Shinto Shrine", "Endless", "Eternal Paradise", "Mystic Dream", "Soul's Resting Place", "Peaceful Romancer"
 ]
 
 const src = [//Highly Responsive to Prayers
