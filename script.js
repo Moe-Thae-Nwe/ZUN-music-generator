@@ -155,7 +155,9 @@ const vid = [//Highly Responsive to Prayers
   //Perfect Memento in Strict Sense
   "https://youtu.be/Wbuvp8qBC1c", "https://youtu.be/kK4qelXrDL4", "https://youtu.be/fSDCxlLuQsU",
   //Akyu's Untouched Score vol.2
-  "https://youtu.be/p2oykpv-kuA", "https://youtu.be/aKOO7zyYetI", "https://youtu.be/TqC6xB8qdq8", "https://youtu.be/l7eBgJDhsZU", "https://youtu.be/0GCxG7cHMt4", "https://youtu.be/TmpUWWhHONU", "https://youtu.be/bVjNaubGzho", "https://youtu.be/v-k5oS96kCk", "https://youtu.be/VdHmL6mPrCM", "https://youtu.be/H_8BvTIOfug", "https://youtu.be/j7ZVMlD0X3g", "https://youtu.be/57t5GlsP_N4", "https://youtu.be/bwBzo5g6Wh0", "https://youtu.be/AlHxip-ezpY", "https://youtu.be/0i9xq96T8KQ", "https://youtu.be/1hiDZpoV7jQ", "https://youtu.be/AKbAD-dVuZQ", "https://youtu.be/KUpjvOCgWHw", "https://youtu.be/A7UEYtMniEg", "https://youtu.be/JuBtC-Ciwok", "https://youtu.be/zbeO3a_AMvQ"
+  "https://youtu.be/p2oykpv-kuA", "https://youtu.be/aKOO7zyYetI", "https://youtu.be/TqC6xB8qdq8", "https://youtu.be/l7eBgJDhsZU", "https://youtu.be/0GCxG7cHMt4", "https://youtu.be/TmpUWWhHONU", "https://youtu.be/bVjNaubGzho", "https://youtu.be/v-k5oS96kCk", "https://youtu.be/VdHmL6mPrCM", "https://youtu.be/H_8BvTIOfug", "https://youtu.be/j7ZVMlD0X3g", "https://youtu.be/57t5GlsP_N4", "https://youtu.be/bwBzo5g6Wh0", "https://youtu.be/AlHxip-ezpY", "https://youtu.be/0i9xq96T8KQ", "https://youtu.be/1hiDZpoV7jQ", "https://youtu.be/AKbAD-dVuZQ", "https://youtu.be/KUpjvOCgWHw", "https://youtu.be/A7UEYtMniEg", "https://youtu.be/JuBtC-Ciwok", "https://youtu.be/zbeO3a_AMvQ",
+  //Akyu's Untouched Score vol.3
+  "https://youtu.be/yxItscHB4MU", "https://youtu.be/WYg_CqRr2y8", "https://youtu.be/sR7UgJGxiXo", "https://youtu.be/eL6RjxGtEtk", "https://youtu.be/I47qRbTpbNE", "https://youtu.be/st-yaYhdSMY", "https://youtu.be/Mkmr547ZaOE", "https://youtu.be/U5Z70EVxctc", "https://youtu.be/ilWo5qBRZns", "https://youtu.be/oYpjatK3Phs", "https://youtu.be/mk_ZS4V8wiQ", "https://youtu.be/aJxXHvLjBNs", "https://youtu.be/sgGJ1NrDpvc", "https://youtu.be/P52piqf-c8g", "https://youtu.be/iyZ5GJFHnkk", "https://youtu.be/LbVIAVmPcnw", "https://youtu.be/7QV7YQGALsA", "https://youtu.be/7GeemG-KU98"
 ]
 
 const comment = [//Highly Responsive to Prayers
@@ -207,7 +209,9 @@ const comment = [//Highly Responsive to Prayers
   //Perfect Memento in Strict Sense
   "The first of these new songs has a very heavy game music feel to it. \n It has very easy-to -follow phrases and a great rhythm. I have the feeling there just aren't that many songs like this anymore. \n Still, I really love this kind of song, so think that makes me feel a little lonely. \n May your life have more adventurous sagas!", "A bit of a curveball. The image in this song is a mysterious girl, something of a specialty of mine. \n I thought I'd give it a mysterious atmosphere, but it all cleared up by the main melody - see, a curveball. \n It sounds doubly nostalgic since listening to it reminds me of RPG dungeons, seriously.", "This is a song I improvised a long time ago, but since that makes it a sad song unlikely to show up in any albums, I did my best to clean it up for performance here. \n It was originally a song that just repeated over and over, so I gave it a melody that reveals more of itself over time as you listen to it.",
   //Akyu's Untouched Score vol.2
-  "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+  "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+  //Akyu's Untouched Score vol.3
+  "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
 ]
 
 function generate() {
