@@ -131,7 +131,9 @@ const vid = [//Highly Responsive to Prayers
   //Shoot the Bullet
   "https://youtu.be/fVzfz75JvwM", "https://youtu.be/Sk9kCHmQy4M", "https://youtu.be/xebXr0Rzh4Q", "https://youtu.be/KR9RSo3P80M", "https://youtu.be/c-9VnF19J1c", "https://youtu.be/L-cWqgWIeEU",
   //Retrospective 53 Minutes
-  "https://youtu.be/MSfiGbqF2So", "https://youtu.be/bif_P9IBUSU", "https://youtu.be/vDUO9ioQIwA", "https://youtu.be/yuNLd2oHurA", "https://youtu.be/CfA3GZPDEIM", "https://youtu.be/w2gVa8edMqE", "https://youtu.be/kZHsuboczTc", "https://youtu.be/1ombYqs8_Wo", "https://youtu.be/KzURokQGeyc", "https://youtu.be/dEq7Rzo2CRU", "https://youtu.be/-ZSqwA-Ns5k"
+  "https://youtu.be/MSfiGbqF2So", "https://youtu.be/bif_P9IBUSU", "https://youtu.be/vDUO9ioQIwA", "https://youtu.be/yuNLd2oHurA", "https://youtu.be/CfA3GZPDEIM", "https://youtu.be/w2gVa8edMqE", "https://youtu.be/kZHsuboczTc", "https://youtu.be/1ombYqs8_Wo", "https://youtu.be/KzURokQGeyc", "https://youtu.be/dEq7Rzo2CRU", "https://youtu.be/-ZSqwA-Ns5k",
+  //Akyu's Untouched Score vol.1
+  "https://youtu.be/osaTuBOoqFA", "https://youtu.be/JzM759uQoWM", "https://youtu.be/2OQjqCThhKQ", "https://youtu.be/Lw0QMn3TgFg", "https://youtu.be/kJbj8rc7cnc", "https://youtu.be/2xLivWzRyVE", "https://youtu.be/9p8OwPBiCUQ", "https://youtu.be/tTBUWmx5OUo", "https://youtu.be/IS9Qsj-v9Fg", "https://youtu.be/phH3Q8tIErQ", "https://youtu.be/i3t3Hs7C8gU", "https://youtu.be/jOsElb3pGzI", "https://youtu.be/Q99yFP0fJaE", "https://youtu.be/Q6fhdj_r4Ho", "https://youtu.be/A24JPABdxHA", "https://youtu.be/QQbOyzS5qsY", "https://youtu.be/EgJGTRoBOTM", "https://youtu.be/vTAflBnOT7E", "https://youtu.be/4eTsHQrLFy8", "https://youtu.be/SV17jLdmn3c", "https://youtu.be/kL4hma0zOcU", "https://youtu.be/vb7f8SGjo6A", "https://youtu.be/eV3ycW4YkXM", "https://youtu.be/Nub6s2LW43w", "https://youtu.be/_vsEHpjOY5o", "https://youtu.be/XdJSefiHa78", "https://youtu.be/GAA_jihwKe8", "https://youtu.be/f052ewT8k18", "https://youtu.be/-9G0uz0gDXI", "https://youtu.be/n1F6P6iavag"
 ]
 
 const comment = [//Highly Responsive to Prayers
