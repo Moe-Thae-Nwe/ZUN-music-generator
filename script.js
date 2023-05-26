@@ -97,7 +97,9 @@ const src = [//Highly Responsive to Prayers
   //Magical Astronomy
   "Oozora Majutsu ~ Magical Astronomy Track 1", "Oozora Majutsu ~ Magical Astronomy Track 2", "Oozora Majutsu ~ Magical Astronomy Track 3", "Oozora Majutsu ~ Magical Astronomy Track 4", "Oozora Majutsu ~ Magical Astronomy Track 5", "Oozora Majutsu ~ Magical Astronomy Track 6", "Oozora Majutsu ~ Magical Astronomy Track 7", "Oozora Majutsu ~ Magical Astronomy Track 8", "Oozora Majutsu ~ Magical Astronomy Track 9", "Oozora Majutsu ~ Magical Astronomy Track 10",
   //Perfect Memento in Strict Sense
-  "Yougakudan Track 1", "Yougakudan Track 2", "Yougakudan Track 3"
+  "Yougakudan Track 1", "Yougakudan Track 2", "Yougakudan Track 3",
+  //Akyu's Untouched Score vol.2
+  "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 1", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 2", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 3", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 4", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 5", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 6", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 7", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 8", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 9", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 10", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 11", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 12", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 13", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 14", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 15", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 16", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 17", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 18", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 19", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 20", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 21", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 22", "Yougakudan no Rekishi 2 ~ Akyu's Untouched Score vol.2 Track 23"
 ]
 
 const vid = [//Highly Responsive to Prayers
@@ -147,7 +149,9 @@ const vid = [//Highly Responsive to Prayers
   //Magical Astronomy
   "https://youtu.be/c760aoMuXgc", "https://youtu.be/u6-_xcREkW4", "https://youtu.be/VyCVHSCUTv8", "https://youtu.be/TXvvA1F-R3Q", "https://youtu.be/zZKpbXkCMO0", "https://youtu.be/wLaSW560xv0", "https://youtu.be/7KAVw6ZJrVo", "https://youtu.be/8BBWwPXwZZ0", "https://youtu.be/7MQBWmmrnck", "https://youtu.be/YWYE2tdQ5Mc",
   //Perfect Memento in Strict Sense
-  "https://youtu.be/Wbuvp8qBC1c", "https://youtu.be/kK4qelXrDL4", "https://youtu.be/fSDCxlLuQsU"
+  "https://youtu.be/Wbuvp8qBC1c", "https://youtu.be/kK4qelXrDL4", "https://youtu.be/fSDCxlLuQsU",
+  //Akyu's Untouched Score vol.2
+  "https://youtu.be/p2oykpv-kuA", "https://youtu.be/aKOO7zyYetI", "https://youtu.be/TqC6xB8qdq8", "https://youtu.be/l7eBgJDhsZU", "https://youtu.be/0GCxG7cHMt4", "https://youtu.be/TmpUWWhHONU", "https://youtu.be/bVjNaubGzho", "https://youtu.be/v-k5oS96kCk", "https://youtu.be/VdHmL6mPrCM", "https://youtu.be/H_8BvTIOfug", "https://youtu.be/j7ZVMlD0X3g", "https://youtu.be/57t5GlsP_N4", "https://youtu.be/bwBzo5g6Wh0", "https://youtu.be/AlHxip-ezpY", "https://youtu.be/0i9xq96T8KQ", "https://youtu.be/1hiDZpoV7jQ", "https://youtu.be/AKbAD-dVuZQ", "https://youtu.be/KUpjvOCgWHw", "https://youtu.be/A7UEYtMniEg", "https://youtu.be/JuBtC-Ciwok", "https://youtu.be/zbeO3a_AMvQ"
 ]
 
 const comment = [//Highly Responsive to Prayers
