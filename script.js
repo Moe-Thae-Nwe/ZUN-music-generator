@@ -43,7 +43,9 @@ const song = [//Highly Responsive to Prayers
   //Akyu's Untouched Score Vol. 1
   "Gensokyo ~ Lotus Land Story", "Witching Dream", "Selene's Light", "Decoration Battle ~ Decoration Battle", "Break the Sabbath", "Scarlet Symphony ~ Scarlet Phoneme", "Bad Apple!!", "Spirit Battle ~ Perdition crisis", "Alice Maestra", "Maiden's Capriccio ~ Capriccio", "Vessel of Stars ~ Casket of Stars", "Lotus Love", "Sleeping Terror ~ Sleeping Terror", "Dream Land", "Faint Dream ~ Inanimate Dream", "The Inevitably Forbidden Game", "Illusion of a Maid ~ Icemilk Magic", "Cute Devil ~ Innocence", "Days", "Peaceful", "Arcadian Dream", "Those Who Live in Illusions", "Lotus Road", "Dreamy Pilot", "Incomplete Plot", "Border Land", "Magic Shop of Raspberry", "Crescent Dream", "Decoration Battle ~ Decoration Battle (Unused Version)", "Faint Dream ~ Inanimate Dream (Unused Version)",
   //Magical Astronomy
-  "Welcome to the Moon Tour", "Greenwich in the Sky", "Sleepless Night of the Eastern Country", "The Wheelchair's Future in Space", "Demystify Feast", "Satellite Café Terrace", "G Free", "Celestial Wizardry ~ Magical Astronomy", "Necrofantasia", "The Far Side of the Moon"
+  "Welcome to the Moon Tour", "Greenwich in the Sky", "Sleepless Night of the Eastern Country", "The Wheelchair's Future in Space", "Demystify Feast", "Satellite Café Terrace", "G Free", "Celestial Wizardry ~ Magical Astronomy", "Necrofantasia", "The Far Side of the Moon",
+  //Perfect Memento in Strict Sense
+  "Japanese Saga", "Child of Are", "Fly above Hatoyama at night - Power MIX"
 ]
 
 const src = [//Highly Responsive to Prayers
@@ -91,7 +93,9 @@ const src = [//Highly Responsive to Prayers
   //Akyu's Untouched Score Vol. 1
   "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc A Track 1", "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc A Track 2", "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc A Track 3", "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc A Track 4", "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc A Track 5", "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc A Track 6", "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc A Track 7", "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc A Track 8", "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc A Track 9", "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc A Track 10", "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc A Track 11", "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc A Track 12", "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc A Track 13", "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc A Track 14", "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc A Track 15", "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc B Track 1", "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc B Track 2", "Yougakudan no Rekishi 1 ~ Akyu's Untouched Score vol.1 Disc B Track 3", "Yougakudan no Rekishi ~ Akyu's Untouched Score vol.1 Disc B Track 4", "Yougakudan no Rekishi ~ Akyu's Untouched Score vol.1 Disc B Track 5", "Yougakudan no Rekishi ~ Akyu's Untouched Score vol.1 Disc B Track 6", "Yougakudan no Rekishi ~ Akyu's Untouched Score vol.1 Disc B Track 7", "Yougakudan no Rekishi ~ Akyu's Untouched Score vol.1 Bonus Tracks Track 1", "Yougakudan no Rekishi ~ Akyu's Untouched Score vol.1 Bonus Tracks Track 2", "Yougakudan no Rekishi ~ Akyu's Untouched Score vol.1 Bonus Tracks Track 3", "Yougakudan no Rekishi ~ Akyu's Untouched Score vol.1 Bonus Tracks Track 4", "Yougakudan no Rekishi ~ Akyu's Untouched Score Bonus Tracks Track 5", "Yougakudan no Rekishi ~ Akyu's Untouched Score Bonus Tracks Track 6", "Yougakudan no Rekishi ~ Akyu's Untouched Score Bonus Tracks Track 7", "Yougakudan no Rekishi ~ Akyu's Untouched Score Bonus Tracks Track 8",
   //Magical Astronomy
-  "Oozora Majutsu ~ Magical Astronomy Track 1", "Oozora Majutsu ~ Magical Astronomy Track 2", "Oozora Majutsu ~ Magical Astronomy Track 3", "Oozora Majutsu ~ Magical Astronomy Track 4", "Oozora Majutsu ~ Magical Astronomy Track 5", "Oozora Majutsu ~ Magical Astronomy Track 6", "Oozora Majutsu ~ Magical Astronomy Track 7", "Oozora Majutsu ~ Magical Astronomy Track 8", "Oozora Majutsu ~ Magical Astronomy Track 9", "Oozora Majutsu ~ Magical Astronomy Track 10"
+  "Oozora Majutsu ~ Magical Astronomy Track 1", "Oozora Majutsu ~ Magical Astronomy Track 2", "Oozora Majutsu ~ Magical Astronomy Track 3", "Oozora Majutsu ~ Magical Astronomy Track 4", "Oozora Majutsu ~ Magical Astronomy Track 5", "Oozora Majutsu ~ Magical Astronomy Track 6", "Oozora Majutsu ~ Magical Astronomy Track 7", "Oozora Majutsu ~ Magical Astronomy Track 8", "Oozora Majutsu ~ Magical Astronomy Track 9", "Oozora Majutsu ~ Magical Astronomy Track 10",
+  //Perfect Memento in Strict Sense
+  "Yougakudan Track 1", "Yougakudan Track 2", "Yougakudan Track 3"
 ]
 
 const vid = [//Highly Responsive to Prayers
@@ -139,7 +143,9 @@ const vid = [//Highly Responsive to Prayers
   //Akyu's Untouched Score vol.1
   "https://youtu.be/osaTuBOoqFA", "https://youtu.be/JzM759uQoWM", "https://youtu.be/2OQjqCThhKQ", "https://youtu.be/Lw0QMn3TgFg", "https://youtu.be/kJbj8rc7cnc", "https://youtu.be/2xLivWzRyVE", "https://youtu.be/9p8OwPBiCUQ", "https://youtu.be/tTBUWmx5OUo", "https://youtu.be/IS9Qsj-v9Fg", "https://youtu.be/phH3Q8tIErQ", "https://youtu.be/i3t3Hs7C8gU", "https://youtu.be/jOsElb3pGzI", "https://youtu.be/Q99yFP0fJaE", "https://youtu.be/Q6fhdj_r4Ho", "https://youtu.be/A24JPABdxHA", "https://youtu.be/QQbOyzS5qsY", "https://youtu.be/EgJGTRoBOTM", "https://youtu.be/vTAflBnOT7E", "https://youtu.be/4eTsHQrLFy8", "https://youtu.be/SV17jLdmn3c", "https://youtu.be/kL4hma0zOcU", "https://youtu.be/vb7f8SGjo6A", "https://youtu.be/eV3ycW4YkXM", "https://youtu.be/Nub6s2LW43w", "https://youtu.be/_vsEHpjOY5o", "https://youtu.be/XdJSefiHa78", "https://youtu.be/GAA_jihwKe8", "https://youtu.be/f052ewT8k18", "https://youtu.be/-9G0uz0gDXI", "https://youtu.be/n1F6P6iavag",
   //Magical Astronomy
-  "https://youtu.be/c760aoMuXgc", "https://youtu.be/u6-_xcREkW4", "https://youtu.be/VyCVHSCUTv8", "https://youtu.be/TXvvA1F-R3Q", "https://youtu.be/zZKpbXkCMO0", "https://youtu.be/wLaSW560xv0", "https://youtu.be/7KAVw6ZJrVo", "https://youtu.be/8BBWwPXwZZ0", "https://youtu.be/7MQBWmmrnck", "https://youtu.be/YWYE2tdQ5Mc"
+  "https://youtu.be/c760aoMuXgc", "https://youtu.be/u6-_xcREkW4", "https://youtu.be/VyCVHSCUTv8", "https://youtu.be/TXvvA1F-R3Q", "https://youtu.be/zZKpbXkCMO0", "https://youtu.be/wLaSW560xv0", "https://youtu.be/7KAVw6ZJrVo", "https://youtu.be/8BBWwPXwZZ0", "https://youtu.be/7MQBWmmrnck", "https://youtu.be/YWYE2tdQ5Mc",
+  //Perfect Memento in Strict Sense
+  "https://youtu.be/Wbuvp8qBC1c", "https://youtu.be/kK4qelXrDL4", "https://youtu.be/fSDCxlLuQsU"
 ]
 
 const comment = [//Highly Responsive to Prayers
@@ -187,7 +193,9 @@ const comment = [//Highly Responsive to Prayers
   //Akyu's Untouched Score vol.1
   "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
   //Magical Astronomy
-  "", "", "", "", "", "", "", "", "", ""
+  "", "", "", "", "", "", "", "", "", "",
+  //Perfect Memento in Strict Sense
+  "The first of these new songs has a very heavy game music feel to it. \n It has very easy-to -follow phrases and a great rhythm. I have the feeling there just aren't that many songs like this anymore. \n Still, I really love this kind of song, so think that makes me feel a little lonely. \n May your life have more adventurous sagas!", "A bit of a curveball. The image in this song is a mysterious girl, something of a specialty of mine. \n I thought I'd give it a mysterious atmosphere, but it all cleared up by the main melody - see, a curveball. \n It sounds doubly nostalgic since listening to it reminds me of RPG dungeons, seriously.", "This is a song I improvised a long time ago, but since that makes it a sad song unlikely to show up in any albums, I did my best to clean it up for performance here. \n It was originally a song that just repeated over and over, so I gave it a melody that reveals more of itself over time as you listen to it."
 ]
 
 function generate() {
