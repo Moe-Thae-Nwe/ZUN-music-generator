@@ -173,7 +173,9 @@ const vid = [//Highly Responsive to Prayers
   //Akyu's Untouched Score vol.3
   "https://youtu.be/yxItscHB4MU", "https://youtu.be/WYg_CqRr2y8", "https://youtu.be/sR7UgJGxiXo", "https://youtu.be/eL6RjxGtEtk", "https://youtu.be/I47qRbTpbNE", "https://youtu.be/st-yaYhdSMY", "https://youtu.be/Mkmr547ZaOE", "https://youtu.be/U5Z70EVxctc", "https://youtu.be/ilWo5qBRZns", "https://youtu.be/oYpjatK3Phs", "https://youtu.be/mk_ZS4V8wiQ", "https://youtu.be/aJxXHvLjBNs", "https://youtu.be/sgGJ1NrDpvc", "https://youtu.be/P52piqf-c8g", "https://youtu.be/iyZ5GJFHnkk", "https://youtu.be/LbVIAVmPcnw", "https://youtu.be/7QV7YQGALsA", "https://youtu.be/7GeemG-KU98",
   //Eastern and Little Nature Deity
-  "https://youtu.be/g78RWcPEk5E", "https://youtu.be/rmEcqa8vKXQ", "https://youtu.be/01xIt9IhBgM"
+  "https://youtu.be/g78RWcPEk5E", "https://youtu.be/rmEcqa8vKXQ", "https://youtu.be/01xIt9IhBgM",
+  //Mountain of Faith
+  "https://youtu.be/bRgRYcoY4nc", "https://youtu.be/1_lpdtkovyw", "https://youtu.be/7qV2STjCpeg", "https://youtu.be/mDm_N6SVznI", "https://youtu.be/dL-pLPtmm54", "https://youtu.be/SaB2Xh3KNp0", "https://youtu.be/xzRToRk_1II", "https://youtu.be/l3iECNiWdoo", "https://youtu.be/2VdEDYhzArM", "https://youtu.be/YfT3vRo3grU", "https://youtu.be/01AGBhmwbWU", "https://youtu.be/jazFzIJ-mrM", "https://youtu.be/TmfWG_g8PZg", "https://youtu.be/_TQi0u6ORtQ", "https://youtu.be/xM3vORHcysw", "https://youtu.be/qZKzyXbUPkg", "https://youtu.be/3V4K-uBRV9Y", "https://youtu.be/2zw2ALRgruA"
 ]
 
 const comment = [//Highly Responsive to Prayers
