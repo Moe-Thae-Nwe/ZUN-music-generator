@@ -64,6 +64,8 @@ const song = [//Highly Responsive to Prayers
   "A Sacred Lot", "Eternal Shrine Maiden", "The Positive and Negative", "Highly Responsive to Prayers", "Eastern Tale of Fancy", "Angel's Legend", "Oriental Magician", "Blade of Banishment", "Magic Mirror", "The Legend of KAGE", "Now, Until the Moment You Die", "Civilization of Magic", "Angel of a Distant Star", "Iris", "Theme of Eastern Story",
   //Strange and Bright Nature Deity 1
   "Sunny Milk's Scarlet Mist Incident", "A Land Resplendent with Nature's Beauty", "Star Voyage 2008",
+  //Silent Sinner in Blue
+  "Youkai Space Travel", "Watatsuki's Spell Card ~ Lunatic Blue", "A Drunkard's Lemuria (Retro Ver)"
 ]
 
 const src = [//Highly Responsive to Prayers
@@ -132,6 +134,8 @@ const src = [//Highly Responsive to Prayers
   "Yougakudan no Rekishi 5 ~ Akyu's Untouched Score vol.5 Track 1", "Yougakudan no Rekishi 5 ~ Akyu's Untouched Score vol.5 Track 2", "Yougakudan no Rekishi 5 ~ Akyu's Untouched Score vol.5 Track 3", "Yougakudan no Rekishi 5 ~ Akyu's Untouched Score vol.5 Track 4", "Yougakudan no Rekishi 5 ~ Akyu's Untouched Score vol.5 Track 5", "Yougakudan no Rekishi 5 ~ Akyu's Untouched Score vol.5 Track 6", "Yougakudan no Rekishi 5 ~ Akyu's Untouched Score vol.5 Track 7", "Yougakudan no Rekishi 5 ~ Akyu's Untouched Score vol.5 Track 8", "Yougakudan no Rekishi 5 ~ Akyu's Untouched Score vol.5 Track 9", "Yougakudan no Rekishi 5 ~ Akyu's Untouched Score vol.5 Track 10", "Yougakudan no Rekishi 5 ~ Akyu's Untouched Score vol.5 Track 11", "Yougakudan no Rekishi 5 ~ Akyu's Untouched Score vol.5 Track 12", "Yougakudan no Rekishi 5 ~ Akyu's Untouched Score vol.5 Track 13", "Yougakudan no Rekishi 5 ~ Akyu's Untouched Score vol.5 Track 14", "Yougakudan no Rekishi 5 ~ Akyu's Untouched Score vol.5 Bonus Track Track 1",
   //Strange and Bright Nature Deity 1
   "Touhou Sangetsusei ~ Strange and Bright Nature Deity 1 Track 1", "Touhou Sangetsusei ~ Strange and Bright Nature Deity 1 Track 2", "Touhou Sangetsusei ~ Strange and Bright Nature Deity 1 Track 3",
+  //Silent Sinner in Blue
+  "Touhou Bougetsushou ~ Silent Sinner in Blue Track 1", "Touhou Bougetsushou ~ Silent Sinner in Blue Track 2", "Touhou Bougetsushou ~ Silent Sinner in Blue Track 3"
 ]
 
 const vid = [//Highly Responsive to Prayers
