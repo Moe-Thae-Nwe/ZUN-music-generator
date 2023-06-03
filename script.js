@@ -203,7 +203,9 @@ const vid = [//Highly Responsive to Prayers
   //Akyu's Untouched Score vol.5
   "https://youtu.be/uO6tAAFKJ9A", "https://youtu.be/Aroh_qKHZLA", "https://youtu.be/qUoh14VzvYE", "https://youtu.be/DDw5U8HPV7I", "https://youtu.be/GeF5eqi0O54", "https://youtu.be/HaOf8zcGqY8", "https://youtu.be/LRcADk-yDCk", "https://youtu.be/eF3YWlOLbdI", "https://youtu.be/bQeEkDUgtag", "https://youtu.be/z6wJCpsv4LI", "https://youtu.be/g4MOY0q0XmA", "https://youtu.be/4jtOntnFrZQ", "https://youtu.be/8PNf7-Bql1c", "https://youtu.be/41jP2HwRkt0", "https://youtu.be/0uUpiJ9t1zY",
   //Strange and Bright Nature Deity 1
-  "https://youtu.be/BO1_B_ejI3U", "https://youtu.be/HYWCnUtPKag", "https://youtu.be/tbRmIfyPlLs"
+  "https://youtu.be/BO1_B_ejI3U", "https://youtu.be/HYWCnUtPKag", "https://youtu.be/tbRmIfyPlLs",
+  //Silent Sinner in Blue
+  "https://youtu.be/RW6R0KxECN4", "https://youtu.be/XHRy6OKboUE", "https://youtu.be/bXreUVM8Avc"
 ]
 
 const comment = [//Highly Responsive to Prayers
@@ -271,7 +273,9 @@ const comment = [//Highly Responsive to Prayers
   //Akyu's Untouched Score vol.5
   "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
   //Strange and Bright Nature Deity 1
-  "I thought of making it an arrange of \"Sunny's Rutile Flection\" with the style of Embodiment of Scarlet Devil, but when I finished, it ended up being a completely different piece. While the fierce battles go on, you can see the figure of a fairy collecting bugs or something by the side of the Scarlet Devil Mansion. If that piece from the days of yore ended up in a fairy's hands...", "I made this second piece with the image of Perfect Cherry Blossom in mind. Perfect Cherry Blossom had that general feel of time going on calmly. It feels traditionally Japanese, snowy, and somewhat wistful... I think it closes up with a nice feeling. For the rhythm, I mixed some drunken and fairy-like feelings.", "I made this third piece with the image of Imperishable Night in mind. And Imperishable Night is all about aliens. Just as my favourite outlook of space is, I made this piece vast, dark, and exciting. But it might be that it turned out too cool to be a Three Fairies piece, to tell you the truth."
+  "I thought of making it an arrange of \"Sunny's Rutile Flection\" with the style of Embodiment of Scarlet Devil, but when I finished, it ended up being a completely different piece. While the fierce battles go on, you can see the figure of a fairy collecting bugs or something by the side of the Scarlet Devil Mansion. If that piece from the days of yore ended up in a fairy's hands...", "I made this second piece with the image of Perfect Cherry Blossom in mind. Perfect Cherry Blossom had that general feel of time going on calmly. It feels traditionally Japanese, snowy, and somewhat wistful... I think it closes up with a nice feeling. For the rhythm, I mixed some drunken and fairy-like feelings.", "I made this third piece with the image of Imperishable Night in mind. And Imperishable Night is all about aliens. Just as my favourite outlook of space is, I made this piece vast, dark, and exciting. But it might be that it turned out too cool to be a Three Fairies piece, to tell you the truth.",
+  //Silent Sinner in Blue
+  "If space travel were so easy as to say \"Tonight, I think I'll go to the moon\"... was what I thought of when I composed this. \n Travelling to the moon in a wooden rocket made from the ancient upholstery attached to the fireplace with the whole contraption shaking all the while. \n On a different note, the discontinued line for the stove train in Aomori is apparently in danger of being dismantled. \n I want to ride it just once before it passes into fantasy.", "This is a song I made for the Watatsuki sisters, who didn't appear much in the first volume but should engage in combat with our carefree invaders before long. \n The Watatsuki sisters are equally carefree. \n However, when it comes to battle, they are stronger. \n I think it's a song with a sense of nervousness yet plenty of room for composure.", "I think of Silent Sinner in Blue as a wild, drunken manga for drunken readers. \n In order for this song to be that drunken, I remade a song I originally created while under the influence of drunken vigor using FM synthesis. \n I worry that I see drunkenness as pointlessly cool."
 ]
 
 function generate() {
