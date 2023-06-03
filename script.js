@@ -65,7 +65,9 @@ const song = [//Highly Responsive to Prayers
   //Strange and Bright Nature Deity 1
   "Sunny Milk's Scarlet Mist Incident", "A Land Resplendent with Nature's Beauty", "Star Voyage 2008",
   //Silent Sinner in Blue
-  "Youkai Space Travel", "Watatsuki's Spell Card ~ Lunatic Blue", "A Drunkard's Lemuria (Retro Ver)"
+  "Youkai Space Travel", "Watatsuki's Spell Card ~ Lunatic Blue", "A Drunkard's Lemuria (Retro Ver)",
+  //Scarlet Weather Rhapsody
+  "Heaven of Scarlet Perception", "Usual Days", "The Ground's Color is Yellow", "Argue for and Against", "Beautiful Nature Sight", "Fragrant Plants", "Dancing Water Spray", "Swing a Fish to Drive Away Flies", "Drunk as I Like", "Ridiculous Game", "Free and Easy", "Skies Beyond the Clouds", "Crimson in the Black Sea ~ Legendary Fish", "Flawless as Clothing of the Celestials", "catastrophe in Bhavaagra ~ Wonderful Heaven", "Bhavaagra As Seen Through a Child's Mind", "Darkening Dusk", "Eastern Heaven of Scarlet Perception", "Eastern Mystical Tale of Romance", "Vessel of Stars ~ Casket of Star", "Flowering Night", "The Doll Maker of Bucuresti", "Hiroari Shoots a Strange Bird ~ Till When?", "Locked Girl ~ The Girl's Sealed Room", "Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life", "Septette for a Dead Princess", "Night Falls", "Broken Moon", "Lunatic Eyes ~ Invisible Full Moon", "Wind God Girl", "Higan Retour ~ Riverside View"
 ]
 
 const src = [//Highly Responsive to Prayers
