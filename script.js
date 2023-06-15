@@ -73,7 +73,9 @@ const song = [//Highly Responsive to Prayers
   //Scarlet Weather Rhapsody OST
   "Heaven of Scarlet Perception", "Usual Days", "The Ground's Color is Yellow", "Argue For and Against", "Beautiful Nature Sight", "Fragrant Plants", "Dancing Water Spray", "Swing a Fish to Drive Away Flies", "Drunk as I Like", "Ridiculous Game", "Free and Easy", "Skies Beyond the Clouds", "Crimson in the Black Sea ~ Legendary Fish", "Flawless as Clothing of the Celestials", "Catastrophe in Bhavaagra ~ Wonderful Heaven", "Bhavaagra as Seen Through a Child's Mind", "Darkening Dusk", "Eastern Heaven of Scarlet Perception", "Heaven of Scarlet Perception", "Eastern Mystical Tale of Romance", "Vessel of Stars ~ Casket of Star", "Flowering Night", "The Doll Maker of Bucuresti", "Hiroari Shoots a Strange Bird ~ Till When?", "Locked Girl ~ The Girl's Sealed Room", "Bloom Nobly, Ink-Black Cherry Blossom ~ Bordrer of Life", "Septette for a Dead Princess", "Night Falls", "Broken Moon", "Lunatic Eyes ~ Invisible Full Moon", "Wind God Girl", "Higan Retour ~ Riverside View", "Crimson in the Black Sea ~ Legendary Fish", "Catastrophe in Bhavaagra ~ Wonderful Heaven", "Eastern Heaven of Scarlet Perception",
   //Strange and Bright Nature Deity 2
-  "The Refrain of the Lovely Great War", "Sunny Rutile Flection", "Can't Sleep Because It's Nighttime", "Like the Brilliance of Fairies"
+  "The Refrain of the Lovely Great War", "Sunny Rutile Flection", "Can't Sleep Because It's Nighttime", "Like the Brilliance of Fairies",
+  //The Grimoire of Marisa
+  "Magician's Melancholy", "Illusionary Sputnik Night"
 ]
 
 const src = [//Highly Responsive to Prayers
