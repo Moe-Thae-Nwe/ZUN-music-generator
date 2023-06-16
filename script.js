@@ -233,7 +233,9 @@ const vid = [//Highly Responsive to Prayers
   //Scarlet Weather Rhapsody OST
   "https://youtu.be/rVDz1LZmEwk", "https://youtu.be/nfwPyaLBDc0", "https://youtu.be/rFiD4eCGtcA", "https://youtu.be/1O-2q_imfLo", "https://youtu.be/3AWNH8Ar8Fw", "https://youtu.be/RM1ziG3z3d0", "https://youtu.be/lCv6cvdlIjY", "https://youtu.be/u_fFyjkKNwg", "https://youtu.be/9o2F2vu7fos", "https://youtu.be/AGHedz8p_KI", "https://youtu.be/n07ltTxV3ps", "https://youtu.be/24rOuNn9tBk", "https://youtu.be/3VbKI0tDsuU", "https://youtu.be/cwx6NPU1_t0", "https://youtu.be/cuNSaLPsz0o", "https://youtu.be/Zy-q5j5s5y8", "https://youtu.be/bPsUtnac1MU", "https://youtu.be/8asxiiRlvO4", "https://youtu.be/DRlD32wFt2M", "https://youtu.be/GXCr2NEgbJI", "https://youtu.be/er1QB8jAg5s", "https://youtu.be/dqrd7358jCQ", "https://youtu.be/B6II_absvnI", "https://youtu.be/Bs6QZymkCpQ", "https://youtu.be/PBXfbzECWsQ", "https://youtu.be/iKV3gYm5o_s", "https://youtu.be/iczULP2TCjQ", "https://youtu.be/R4k-xaoeJ0Q", "https://youtu.be/lR6T41PddKI", "https://youtu.be/NYDiM7Sm6RM", "https://youtu.be/VfRByK8yxbo", "https://youtu.be/di8eIMdwP9s", "https://youtu.be/LwKy9KRJV_Y", "https://youtu.be/_T9mwndepqM", "https://youtu.be/n9txELngk-s",
   //Strange and Bright Nature Deity 2
-  "https://youtu.be/IQ-CiXphMsk", "https://youtu.be/-j8XFLnzUcE", "https://youtu.be/Z6TBKjbdDew", "https://youtu.be/MmY3tJaZj7M"
+  "https://youtu.be/IQ-CiXphMsk", "https://youtu.be/-j8XFLnzUcE", "https://youtu.be/Z6TBKjbdDew", "https://youtu.be/MmY3tJaZj7M",
+  //The Grimoire of Marisa
+  "https://youtu.be/aXaYVSaki5s", "https://youtu.be/IXgtcMAtWAs"
 ]
 
 const comment = [//Highly Responsive to Prayers
@@ -311,7 +313,9 @@ const comment = [//Highly Responsive to Prayers
   //Scarlet Weather Rhapsody OST
   "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
   //Strange and Bright Nature Deity 2
-  "This is the theme I imagined would continue the specially-drawn comic, the Great Fairy Wars. I imagine that Great Fairy Wars will be the opening story to a normal shooting game. This theme has a so-called feel of the middle of a shooting game. After what's in the comic, nobody knows whether the fairies will really be having a great war or just having a party in the midst of the cherry blossoms. I think this theme carries the atmosphere of both. Though the start of this theme has the feel of the start of a journey, it also gives an image of fairies stopping by here and there on their journey that they forget their destination, so what do you think?", "", "", ""
+  "This is the theme I imagined would continue the specially-drawn comic, the Great Fairy Wars. I imagine that Great Fairy Wars will be the opening story to a normal shooting game. This theme has a so-called feel of the middle of a shooting game. After what's in the comic, nobody knows whether the fairies will really be having a great war or just having a party in the midst of the cherry blossoms. I think this theme carries the atmosphere of both. Though the start of this theme has the feel of the start of a journey, it also gives an image of fairies stopping by here and there on their journey that they forget their destination, so what do you think?", "", "", "",
+  //The Grimoire of Marisa
+  "", ""
 ]
 
 function generate() {
