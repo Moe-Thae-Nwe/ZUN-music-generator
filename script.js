@@ -75,7 +75,9 @@ const song = [//Highly Responsive to Prayers
   //Strange and Bright Nature Deity 2
   "The Refrain of the Lovely Great War", "Sunny Rutile Flection", "Can't Sleep Because It's Nighttime", "Like the Brilliance of Fairies",
   //The Grimoire of Marisa
-  "Magician's Melancholy", "Illusionary Sputnik Night"
+  "Magician's Melancholy", "Illusionary Sputnik Night",
+  //Undefined Fantastic Object
+  "A Shadow in the Blue Sky", "At the Harbor of Spring", "A Tiny, Tiny, Clever Commander", "The Sealed Cloud Route", "Beware the Umbrella Left There Forever", "Sky Ruin", "The traditional Old Man and the Stylish Girl", "Interdimensional Voyage of a Ghostly Passenger Ship", "Captain Murasa", "Rural Makai City Esoteria", "The Tiger-Patterned Bishamonten", "Fires of Hokkai", "Emotional Skyscraper ~ Cosmic Mind", "UFO Romance in the Night Sky", "Heian Alien", "Youkai Temple", "Returning Home from the Sky ~ Sky Dream"
 ]
 
 const src = [//Highly Responsive to Prayers
