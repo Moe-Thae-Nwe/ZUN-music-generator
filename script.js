@@ -77,7 +77,9 @@ const song = [//Highly Responsive to Prayers
   //The Grimoire of Marisa
   "Magician's Melancholy", "Illusionary Sputnik Night",
   //Undefined Fantastic Object
-  "A Shadow in the Blue Sky", "At the Harbor of Spring", "A Tiny, Tiny, Clever Commander", "The Sealed Cloud Route", "Beware the Umbrella Left There Forever", "Sky Ruin", "The traditional Old Man and the Stylish Girl", "Interdimensional Voyage of a Ghostly Passenger Ship", "Captain Murasa", "Rural Makai City Esoteria", "The Tiger-Patterned Bishamonten", "Fires of Hokkai", "Emotional Skyscraper ~ Cosmic Mind", "UFO Romance in the Night Sky", "Heian Alien", "Youkai Temple", "Returning Home from the Sky ~ Sky Dream"
+  "A Shadow in the Blue Sky", "At the Harbor of Spring", "A Tiny, Tiny, Clever Commander", "The Sealed Cloud Route", "Beware the Umbrella Left There Forever", "Sky Ruin", "The traditional Old Man and the Stylish Girl", "Interdimensional Voyage of a Ghostly Passenger Ship", "Captain Murasa", "Rural Makai City Esoteria", "The Tiger-Patterned Bishamonten", "Fires of Hokkai", "Emotional Skyscraper ~ Cosmic Mind", "UFO Romance in the Night Sky", "Heian Alien", "Youkai Temple", "Returning Home from the Sky ~ Sky Dream",
+  //Touhou Hisoutensoku
+  "Did You See That Shadow?", "Forgathering Dream", "The Legendary Titan", "Our Hisoutensoku", "Scenery with Dolls", "The Eternal Steam Engine", "Faith is for the Transient People", "Tomboyish Girl in Love", "Shanghai Scarlet Teahouse ~ Chinese Tea", "Solar Sect of Mystic Wisdom ~ Nuclear Fusion", "Tomorrow Will Be Special, Yesterday Was Not", "Unknown X ~ Unfound Adventure", "X, the Floating Object in the Sky", "Dichromantic Lotus Butterfly ~ Ancients", "Love-Colored Magic", "The Grimoire of Alice", "Voile, the Magic Library", "Eastern Mystical Tale of Romance (Century's End Version)"
 ]
 
 const src = [//Highly Responsive to Prayers
