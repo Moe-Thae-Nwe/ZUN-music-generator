@@ -239,7 +239,9 @@ const vid = [//Highly Responsive to Prayers
   //Strange and Bright Nature Deity 2
   "https://youtu.be/IQ-CiXphMsk", "https://youtu.be/-j8XFLnzUcE", "https://youtu.be/Z6TBKjbdDew", "https://youtu.be/MmY3tJaZj7M",
   //The Grimoire of Marisa
-  "https://youtu.be/aXaYVSaki5s", "https://youtu.be/IXgtcMAtWAs"
+  "https://youtu.be/aXaYVSaki5s", "https://youtu.be/IXgtcMAtWAs",
+  //Undefined Fantastic Object
+  "https://youtu.be/glz5e97Q8do", "https://youtu.be/xtXmFoFensQ", "https://youtu.be/nJjN8hsTqk0", "https://youtu.be/ncfvilGTM50", "https://youtu.be/Y7FSM3nlujE", "https://youtu.be/HyDaz3Tqdg8", "https://youtu.be/a4wb0LjJ5mg", "https://youtu.be/jJA9BHJ8xX0", "https://youtu.be/VBruV3zhFcQ", "https://youtu.be/XpXVUSc2grM", "https://youtu.be/wnpq4o0PfnM", "https://youtu.be/80_Q5O7Y7Lg", "https://youtu.be/FKWvNr3BoFw", "https://youtu.be/epb0OaYuFSE", "https://youtu.be/Bs3Eu0x8iE0", "https://youtu.be/OkN3wAz4g8Q", "https://youtu.be/Ao3KOKrYiJI"
 ]
 
 const comment = [//Highly Responsive to Prayers
