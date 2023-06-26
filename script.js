@@ -91,7 +91,9 @@ const song = [//Highly Responsive to Prayers
   //Fairy Wars
   "An Ice Fairy in Spring", "The Refrain of the Lovely Great War", "Staking Your Life on a Prank", "Year-Round Absorbed Curiosity", "A Midnight Fairy Dance", "Great Fairy Wars ~ Fairy Wars", "Loose Rain", "Magus Night", "An Ice Fairy in Spring -Still-", "Player's Score",
   //Oriental Sacred Place 2
-  "Year-Round Absorbed Curiosity", "A Midnight Fairy Dance", "Great Fairy Wars ~ Fairy Wars"
+  "Year-Round Absorbed Curiosity", "A Midnight Fairy Dance", "Great Fairy Wars ~ Fairy Wars",
+  //Unknown Flower, Mesmerizing Journey
+  "Unknown Flower, Mesmerizing Journey", "Bell of Avici ~ Infinite Nightmare", "Tomorrow will be Special, Yesterday was not"
 ]
 
 const src = [//Highly Responsive to Prayers
@@ -187,7 +189,9 @@ const src = [//Highly Responsive to Prayers
   //Fairy Wars
   "Yousei Daisensou ~ Touhou Sangetsusei Title Theme", "Yousei Daisensou ~ Touhou Sangetsusei Stage 1 Theme", "Yousei Daisensou ~ Touhou Sangetsusei Three Fairies of Light's First Theme" "Yousei Daisensou ~ Touhou Sangetsusei Stage 2 Theme", "Yousei Daisensou ~ Touhou Sangetsusei Stage 3 Theme", "Yousei Daisensou ~ Touhou Sangetsusei Three Fairies of Light's Second Theme", "Yousei Daisensou ~ Touhou Sangetsusei Extra Stage Theme", "Yousei Daisensou ~ Touhou Sangetsusei Kirisame Marisa's Theme", "Yousei Daisensou ~ Touhou Sangetsusei Ending Theme", "Yousei Daisensou ~ Touhou Sangetsusei Score Theme",
   //Oriental Sacred Place 2
-  "Touhou Sangetsusei ~ Oriental Sacred Place 2 Track 1", "Touhou Sangetsusei ~ Oriental Sacred Place 2 Track 2", "Touhou Sangetsusei ~ Oriental Sacred Place 2 Track 3"
+  "Touhou Sangetsusei ~ Oriental Sacred Place 2 Track 1", "Touhou Sangetsusei ~ Oriental Sacred Place 2 Track 2", "Touhou Sangetsusei ~ Oriental Sacred Place 2 Track 3",
+  //Unknown Flower, Mesmerizing Journey
+  "Michi no Hana, Michi no Tabi Track 1", "Michi no Hana, Michi no Tabi Track 2", "Michi no Hana, Michi no Tabi Track 3"
 ]
 
 const vid = [//Highly Responsive to Prayers
@@ -283,7 +287,9 @@ const vid = [//Highly Responsive to Prayers
   //Fairy Wars
   "https://youtu.be/NYQHw9bt34o", "https://youtu.be/IrCcyn7qzdA", "https://youtu.be/DK_rjsVRFkI", "https://youtu.be/BAHrbN-h5yg", "https://youtu.be/2xkLbLe8xBw", "https://youtu.be/vNR0N84u-TA", "https://youtu.be/7th8POP32sI", "https://youtu.be/Ndy0uXhlGRs", "https://youtu.be/24ls7RRK9n4", "https://youtu.be/n1EdWjw_wmQ",
   //Oriental Sacred Place 2
-  "https://youtu.be/mPYB_kgzbbc", "https://youtu.be/YOOQvpMzI_k", "https://youtu.be/SY21CBySBYs"
+  "https://youtu.be/mPYB_kgzbbc", "https://youtu.be/YOOQvpMzI_k", "https://youtu.be/SY21CBySBYs",
+  //Unknown Flower, Mesmerizing Journey
+  "https://youtu.be/FroLTY_mfDA", "https://youtu.be/3RNKcib1yk8", "https://youtu.be/10_TH4pRRKM"
 ]
 
 const comment = [//Highly Responsive to Prayers
@@ -379,7 +385,9 @@ const comment = [//Highly Responsive to Prayers
   //Fairy Wars
   "This is the title screen theme. \n It turned out with a pretty carefree and airy feel. \n There's no particular sense of tension, and it uses the same melody as always, with a feel that adds more fairy-ness, which differs from humans.", "This is the first stage theme. \n This song was once recorded for a volume of Sangetsusei. \n I'd originally planned to use it as a stage one theme, so tthis song must be satisfied to finally have that wish granted. \n Game music is perfect when listened to during gameplay. \n Some people probably get impressions different from those they got by listening to it on CD.", "This is the first and second stage boss theme. \n This is the theme for battles with the Three Fairies. \n It has a very boss-ish feel to it, but it's also very liiight. \n Maybe it's a cute feel that accompanies the enemy's attacks in your little argument.", "This is the stage 2 theme. \n The atmosphere changed from that of stage 1, to that of an evening. \n This song has the title screen theme's melody. \n I think it has a much more mysterious and nostalgic feel. \n After all, evening is very mysterious and nostalgic.", "This is the stage 3 theme. \n The melody is a little jazzy and adult-y. \n Night is the time for adults. Or the time of youkai. \n It's the time when good children are in bed and the youkai come out ot whittle away the night. \n Or when adults come out. Well, they come out undoubtedly.", "This is the third stage boss theme. \n It is for the last boss battle, but players can reach it quickly, so it was hard to decide how heavy the song would be. \n Starting with max power is too wearing,, so I made it have a slow and happy feeling in the beginning, and a fast and hot feeling in the ending. \n The tone is fairy-like, but the song itself is rather hot-blooded.", "This is the extra stagee theme. \n It turned out feeling like being rushed uselessly in the introduction, but the whole song has a prank-like feel to it, fitting for the extra stage. \n It gave an image of flight in the falling petals of cherry blossoms. \n (Needless to say, I was rushed by the schedule during the composition.)", "This is the extra boss theme. \n At first I planned to make it an arrangement of The Witches' Ball. \nn Since I composed it only with the impression left in my mind, it became a completely different song after all... \n \"A song arranged by the original composer can't be an arrangement\" may mean this. \n Anyway, isn't this a cool song? It's no problem if the song is good.", "This is the ending theme. \n This is a different version of the opening theme. \n It's a little more adult-y. \n An adult man still talking of fairies is hopeless, right?", "This is the name entry theme. \n This it a liiittle bit lighter, to fit the game's theme.",
   //Oriental Sacred Place 2
-  "A song full of suspicion, brightness, and nostalgia, from the game \"Yousei Daisensou\". \n Fairies are clusters os inquisitiveness, so this song is naturally also fully loaded with the desire to have a good time. \n This one is fully loaded with the desire to have a good time, and has a more casual rhythm than the original song. \n Fully loaded with it, just like fairies.", "This song feels a bit more like an adult reaching on their tiptoes. \n Though, that isn't really the image given by the name \"Fairy Dance\". \n When you say \"fairy dance\", you kind of think of a mysterious dance done by sprouting mushrooms, all in a circle...", "There are not really many fight scenes in this manga, but the fairies do nothing but battle against daily life every day. \n Not getting into a pointless battle is the mark of a high-grade living being, but fairies aren't high-grade beings, so... \n Well, whatever the case is, it's not really a very \"great war\"-like song, is it?"
+  "A song full of suspicion, brightness, and nostalgia, from the game \"Yousei Daisensou\". \n Fairies are clusters os inquisitiveness, so this song is naturally also fully loaded with the desire to have a good time. \n This one is fully loaded with the desire to have a good time, and has a more casual rhythm than the original song. \n Fully loaded with it, just like fairies.", "This song feels a bit more like an adult reaching on their tiptoes. \n Though, that isn't really the image given by the name \"Fairy Dance\". \n When you say \"fairy dance\", you kind of think of a mysterious dance done by sprouting mushrooms, all in a circle...", "There are not really many fight scenes in this manga, but the fairies do nothing but battle against daily life every day. \n Not getting into a pointless battle is the mark of a high-grade living being, but fairies aren't high-grade beings, so... \n Well, whatever the case is, it's not really a very \"great war\"-like song, is it?",
+  //Unknown Flower, Mesmerizing Journey
+  "", "", ""
 ]
 
 function generate() {
