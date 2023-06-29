@@ -93,7 +93,9 @@ const song = [//Highly Responsive to Prayers
   //Oriental Sacred Place 2
   "Year-Round Absorbed Curiosity", "A Midnight Fairy Dance", "Great Fairy Wars ~ Fairy Wars",
   //Unknown Flower, Mesmerizing Journey
-  "Unknown Flower, Mesmerizing Journey", "Bell of Avici ~ Infinite Nightmare", "Tomorrow will be Special, Yesterday was not"
+  "Unknown Flower, Mesmerizing Journey", "Bell of Avici ~ Infinite Nightmare", "Tomorrow will be Special, Yesterday was not",
+  //Ten Desires
+  "Spirit of Avarice", "Night Cherry Blossoms of Dead Spirits", "Ghost Lead", "Welcome to Youkai Temple", "Youkai Girl at the Gate", "Let's Live in a Lovely Cemetery", "Rigid Paradise", "Desire Drive", "Old Yuanxian", "The Hall of Dreams' Great Mausoleum", "Omiwa Legend", "Starry Sky of Small Desires", "Shoutoku Legend ~ True Administrator", "Youkai Shrine's Back Road", "Futatsuiwa from Sado", "A New Wind at the Shrine", "Desire Dream"
 ]
 
 const src = [//Highly Responsive to Prayers
@@ -191,7 +193,9 @@ const src = [//Highly Responsive to Prayers
   //Oriental Sacred Place 2
   "Touhou Sangetsusei ~ Oriental Sacred Place 2 Track 1", "Touhou Sangetsusei ~ Oriental Sacred Place 2 Track 2", "Touhou Sangetsusei ~ Oriental Sacred Place 2 Track 3",
   //Unknown Flower, Mesmerizing Journey
-  "Michi no Hana, Michi no Tabi Track 1", "Michi no Hana, Michi no Tabi Track 2", "Michi no Hana, Michi no Tabi Track 3"
+  "Michi no Hana, Michi no Tabi Track 1", "Michi no Hana, Michi no Tabi Track 2", "Michi no Hana, Michi no Tabi Track 3",
+  //Ten Desires
+  "Touhou Shinreibyou ~ Ten Desires Title Screen Theme", "Touhou Shinreibyou ~ Ten Desires Stage 1 Theme", "Touhou Shinreibyou ~ Ten Desires Saigyouji Yuyuko's Theme", "Touhou Shinreibyou ~ Ten Desires Stage 2 Theme", "Touhou Shinreibyou ~ Ten Desires Kasodani Kyouko's Theme", "Touhou Shinreibyou ~ Ten Desires Stage 3 Theme", "Touhou Shinreibyou ~ Ten Desires Miyako Yoshika's Theme", "Touhou Shinreibyou ~ Ten Desires Stage 4 Theme", "Touhou Shinreibyou ~ Ten Desires Kaku Seiga's Theme", "Touhou Shinreibyou ~ Ten Desires Stage 5 Theme", "Touhou Shinreibyou ~ Mononobe no Futo's Theme", "Touhou Shinreibyou ~ Ten Desires Stage 6 Theme", "Touhou Shinreibyou ~ Toyosatomimi no Miko's Theme", "Touhou Shinreibyou ~ Ten Desires Extra Stage Theme", "Touhou Shinreibyou ~ Ten Desires Futatsuiwa Mamizou's Theme", "Touhou Shinreibyou ~ Ten Desires Ending Theme", "Touhou Shinreibyou ~ Ten Desires Staff Roll Theme"
 ]
 
 const vid = [//Highly Responsive to Prayers
@@ -289,7 +293,9 @@ const vid = [//Highly Responsive to Prayers
   //Oriental Sacred Place 2
   "https://youtu.be/mPYB_kgzbbc", "https://youtu.be/YOOQvpMzI_k", "https://youtu.be/SY21CBySBYs",
   //Unknown Flower, Mesmerizing Journey
-  "https://youtu.be/FroLTY_mfDA", "https://youtu.be/3RNKcib1yk8", "https://youtu.be/10_TH4pRRKM"
+  "https://youtu.be/FroLTY_mfDA", "https://youtu.be/3RNKcib1yk8", "https://youtu.be/10_TH4pRRKM",
+  //Ten Desires
+  "https://youtu.be/z9hdHtJeRBY", "https://youtu.be/pQd15I-_Xv8", "https://youtu.be/PZRFbGfM7fg", "https://youtu.be/vTIfAj0cWY4", "https://youtu.be/2VRdglkSVns", "https://youtu.be/kcdjfwRpx1c", "https://youtu.be/LK3jUUe9Wp8", "https://youtu.be/W7il8TUlsEU", "https://youtu.be/lRGcHiPD-ZM", "https://youtu.be/I3AoSP5Eo7Q", "https://youtu.be/esVOgN3B2wo", "https://youtu.be/r8AsFPugDoI", "https://youtu.be/GZ6kn6H0G_o", "https://youtu.be/HsddwtpefOI", "https://youtu.be/KI4eyTLcX2M", "https://youtu.be/JsNZS0qbciY", "https://youtu.be/Ogksn6mRlnw"
 ]
 
 const comment = [//Highly Responsive to Prayers
@@ -387,7 +393,9 @@ const comment = [//Highly Responsive to Prayers
   //Oriental Sacred Place 2
   "A song full of suspicion, brightness, and nostalgia, from the game \"Yousei Daisensou\". \n Fairies are clusters os inquisitiveness, so this song is naturally also fully loaded with the desire to have a good time. \n This one is fully loaded with the desire to have a good time, and has a more casual rhythm than the original song. \n Fully loaded with it, just like fairies.", "This song feels a bit more like an adult reaching on their tiptoes. \n Though, that isn't really the image given by the name \"Fairy Dance\". \n When you say \"fairy dance\", you kind of think of a mysterious dance done by sprouting mushrooms, all in a circle...", "There are not really many fight scenes in this manga, but the fairies do nothing but battle against daily life every day. \n Not getting into a pointless battle is the mark of a high-grade living being, but fairies aren't high-grade beings, so... \n Well, whatever the case is, it's not really a very \"great war\"-like song, is it?",
   //Unknown Flower, Mesmerizing Journey
-  "", "", ""
+  "", "", "",
+  //Ten Desires
+  "The theme for the title screen. \n The same melody as always. This time, I bring it with darker colors. \n I tend to feel that STGs are liked more when they have a dark world view, rather than a pop one. \n This game isn't dark at all, though.", "The first stage theme. \n It's been a while since we last went to the netherworld. Since this time, the theme concerns both the Perfect Cherry Blossom world and the Undefined Fantastic Object world, the netherworld had to be there. \n It sounds melodious, but I made it rhythmical so that I won't forget that it's a first stage song.", "Saigyouji Yuyuko's theme. \n Not really an easy piece to classify. \n Since I had to bring out the fact that she's only a first strage boss, I stopped myself from arranging a previous song of hers. \n In this game she just acts as a \"nameless npc willager\" who helps the protagonists on their way.", "The second stage theme. \n Normally a temple is nice and quiet in the morning. \n But in a temple that youkai live in, it's noisier from night to daybreak. \n Youkai that live in the temple... Doesn't that bring up all sorts of images? \n Using that imane, I made it my own sort of Japanese song."
 ]
 
 function generate() {
