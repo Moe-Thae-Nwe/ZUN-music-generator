@@ -365,7 +365,9 @@ const vid = [//Highly Responsive to Prayers
   //Dr. Latency's Freak Report
   "https://youtu.be/nA0bivxcBrc", "https://youtu.be/QFgRowa7-IU", "https://youtu.be/Ymy73JrkkZk", "https://youtu.be/as7WGSNGmKI", "https://youtu.be/XRtTtHN7M6A", "https://youtu.be/ZztHrBFjoZU", "https://youtu.be/FiaG41B0E-c", "https://youtu.be/EBtDvvgLxT0", "https://youtu.be/6gJ3C9MGDKg", "https://youtu.be/sUvJkSdTQLk", "https://youtu.be/1sQExkWP0zc",
   //Dateless Bar "Old Adam"
-  "https://youtu.be/ldVhVxQsu9E", "https://youtu.be/a9IA62f7mJg", "https://youtu.be/FZd4UpZ2Jds", "https://youtu.be/yk2k9VkgLuw", "https://youtu.be/89TlyeCVeSA", "https://youtu.be/VBJK9QPoAek", "https://youtu.be/8QxmOxmeJLY", "https://youtu.be/LGERDyEpO44", "https://youtu.be/byhrb9uBYdw", "https://youtu.be/xE9pjVmTdKg"
+  "https://youtu.be/ldVhVxQsu9E", "https://youtu.be/a9IA62f7mJg", "https://youtu.be/FZd4UpZ2Jds", "https://youtu.be/yk2k9VkgLuw", "https://youtu.be/89TlyeCVeSA", "https://youtu.be/VBJK9QPoAek", "https://youtu.be/8QxmOxmeJLY", "https://youtu.be/LGERDyEpO44", "https://youtu.be/byhrb9uBYdw", "https://youtu.be/xE9pjVmTdKg",
+  //Forbidden Scrollery
+  "https://youtu.be/VM-daGsqOTc", "https://youtu.be/gz4SpXpKbF", "https://youtu.be/mxlnkzshWCU"
 ]
 
 const comment = [//Highly Responsive to Prayers
