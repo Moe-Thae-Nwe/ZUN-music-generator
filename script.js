@@ -377,7 +377,9 @@ const vid = [//Highly Responsive to Prayers
   //Forbidden Scrollery
   "https://youtu.be/VM-daGsqOTc", "https://youtu.be/gz4SpXpKbF", "https://youtu.be/mxlnkzshWCU",
   //Hidden Star in Four Seasons
-  "https://youtu.be/AXmqf9sfIwA", "https://youtu.be/Nt3kUp1qAoM", "https://youtu.be/uhmYiP2vDK4", "https://youtu.be/f9xdMzUTBsw", "https://youtu.be/mFtRP5enYAE", "https://youtu.be/Tn3AJDX7aSY", "https://youtu.be/Qw9gNU0ZMX4", "https://youtu.be/DxTr51RmEjE", "https://youtu.be/lfS5EeXWiOQ", "https://youtu.be/_Rh9x95quvk", "https://youtu.be/JdsAE6gwoyo", "https://youtu.be/jIJVo0T676k", "https://youtu.be/hTLz5k-3R9s", "https://youtu.be/ZoglwNF1ZJw", "https://youtu.be/IzCfAU-O1bU", "
+  "https://youtu.be/AXmqf9sfIwA", "https://youtu.be/Nt3kUp1qAoM", "https://youtu.be/uhmYiP2vDK4", "https://youtu.be/f9xdMzUTBsw", "https://youtu.be/mFtRP5enYAE", "https://youtu.be/Tn3AJDX7aSY", "https://youtu.be/Qw9gNU0ZMX4", "https://youtu.be/DxTr51RmEjE", "https://youtu.be/lfS5EeXWiOQ", "https://youtu.be/_Rh9x95quvk", "https://youtu.be/JdsAE6gwoyo", "https://youtu.be/jIJVo0T676k", "https://youtu.be/hTLz5k-3R9s", "https://youtu.be/ZoglwNF1ZJw", "https://youtu.be/IzCfAU-O1bU", "https://youtu.be/elfSj4Ui_0I", "https://youtu.be/1i9KMjBVU5o"
+  //Antinomy of Common Flower
+  "https://youtu.be/19kFf-LPDxw", "https://youtu.be/O-oTXwCKRSc", "https://youtu.be/Rhe1XQzaNww", "https://youtu.be/NkcYEqapQGg", "https://youtu.be/JmkCUzDrrDQ", "https://youtu.be/YAsRWLdviDg", "https://youtu.be/DyEtkxmiYaE", "https://youtu.be/wejB4e5xJ9A", "https://youtu.be/dahGGkAfUs4", "https://youtu.be/EaglxykWnAE", "https://youtu.be/Hj_w9BvGs50", "https://youtu.be/iTHP65OpGhk", "https://youtu.be/PecaDj7wFEU", "https://youtu.be/ePuOp0udgz0", "https://youtu.be/GHfs3NGy8WI", "https://youtu.be/Auq4oM4yYgY", "https://youtu.be/kXTvqPn-P7g", "https://youtu.be/NTPhqy2Lj_Q", "https://youtu.be/l5-hxKMfCvA", "https://youtu.be/8GraPkVcgiE", "https://youtu.be/kbzmyBkm2h8", "https://youtu.be/H3C-6Y2xFLY", "https://youtu.be/0NtaltaYByQ" //Continue from Shining Armillary Sphere
 ]
 
 const comment = [//Highly Responsive to Prayers
