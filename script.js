@@ -487,7 +487,9 @@ const comment = [//Highly Responsive to Prayers
   //Dr. Latency's Freak Report
   "", "", "", "", "", "", "", "", "", "", "",
   //Dateless Bar "Old Adam"
-  "", "", "", "", "", "", "", "", "", ""
+  "", "", "", "", "", "", "", "", "", "",
+  //Forbidden Scrollery
+  "", "", ""
   ]
 
 function generate() {
