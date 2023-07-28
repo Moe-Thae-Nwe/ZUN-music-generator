@@ -241,7 +241,9 @@ const src = [//Highly Responsive to Prayers
   //Dr. Latency's Freak Report
   "Enseki Hakubutsushi ~ Dr. Latency's Freak Report Track 1", "Enseki Hakubutsushi ~ Dr. Latency's Freak Report Track 2", "Enseki Hakubutsushi ~ Dr. Latency's Freak Report Track 3", "Enseki Hakubutsushi ~ Dr. Latency's Freak Report Track 4", "Enseki Hakubutsushi ~ Dr. Latency's Freak Report Track 5", "Enseki Hakubutsushi ~ Dr. Latency's Freak Report Track 6", "Enseki Hakubutsushi ~ Dr. Latency's Freak Report Track 7", "Enseki Hakubutsushi ~ Dr. Latency's Freak Report Track 8", "Enseki Hakubutsushi ~ Dr. Latency's Freak Report Track 9", "Enseki Hakubutsushi ~ Dr. Latency's Freak Report Track 10", "Enseki Hakubutsushi ~ Dr. Latency's Freak Report Track 11",
   //Dateless Bar "Old Adam"
-  "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 1", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 2", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 3", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 4", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 5", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 6", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 7", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 8", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 9", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 10"
+  "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 1", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 2", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 3", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 4", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 5", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 6", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 7", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 8", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 9", "Kyuuyaku Sakaba ~ Dateless Bar \"Old Adam\" Track 10",
+  //Forbidden Scrollery
+  "Touhou Suzunaan ~ Forbidden Scrollery Track 1", "Touhou Suzunaan ~ Forbidden Scrollery Track 2", "Touhou Suzunaan ~ Forbidden Scrollery Track 3"
 ]
 
 const vid = [//Highly Responsive to Prayers
