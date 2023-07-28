@@ -117,7 +117,9 @@ const song = [//Highly Responsive to Prayers
   //Dr. Latency's Freak Report
   "The Childlike Duo's Naturalis Historia", "The Frozen Eternal Capital", "Dr. Latency's Sleepless Eyes", "September Pumpkin", "An Instant that Exceeds Planck's Time", "Schrödinger's Bakeneko", "The Shining Needle Castl Sinking in the Air", "The Taboo Membrane Wall", "The Sea that Reflects One's Home Planet", "Pure Furies ~ Whereabouts of the Heart", "Eternal Transient Reign",
   //Dateless Bar "Old Adam"
-  "\"Old Adam\" Bar", "The Darkness Brought in by Swallowstone Naturalis Historia", "Reverse Ideology", "Outsider Cocktail", "Omiwa Legend", "Pandemonic Planet", "Adventurer's Tavern of the Old World", "Rural Makai City Esoteria", "The Lost Emotion", "Hangover of Bedfellows Dreaming Differently"
+  "\"Old Adam\" Bar", "The Darkness Brought in by Swallowstone Naturalis Historia", "Reverse Ideology", "Outsider Cocktail", "Omiwa Legend", "Pandemonic Planet", "Adventurer's Tavern of the Old World", "Rural Makai City Esoteria", "The Lost Emotion", "Hangover of Bedfellows Dreaming Differently",
+  //Forbidden Scrollery
+  "bibliophile with a Deciphering Eye", "Humans and Youkai Coming and Going at the Canal", "The Rabbit Has Landed"
 ]
 
 const src = [//Highly Responsive to Prayers
