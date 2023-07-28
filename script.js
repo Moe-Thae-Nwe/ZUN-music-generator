@@ -359,7 +359,9 @@ const vid = [//Highly Responsive to Prayers
   //Legacy of Lunatic Kingdom
   "https://youtu.be/96Ev6mgiteg", "https://youtu.be/EcEsoosBUGw", "https://youtu.be/gyQreB8RJVA", "https://youtu.be/LyGHPHb_76U", "https://youtu.be/bbQIvBkq-bo", "https://youtu.be/VGpt2Qkyn4o", "https://youtu.be/s6UQzS3Yjpg", "https://youtu.be/ppINoc5kkk4", "https://youtu.be/ftOKxb2_dlg", "https://youtu.be/2B6xtzcpERg", "https://youtu.be/pLncnchxbsM", "https://youtu.be/kqsYqag4GDI", "https://youtu.be/ohoA5ugsf74", "https://youtu.be/GCgiMi4yRSo", "https://youtu.be/IAlludjopJw", "https://youtu.be/9bTYSrjS-8Y", "https://youtu.be/2LLFa1QZUoI",
   //Dr. Latency's Freak Report
-  "https://youtu.be/nA0bivxcBrc", "https://youtu.be/QFgRowa7-IU", "https://youtu.be/Ymy73JrkkZk", "https://youtu.be/as7WGSNGmKI", "https://youtu.be/XRtTtHN7M6A", "https://youtu.be/ZztHrBFjoZU", "https://youtu.be/FiaG41B0E-c", "https://youtu.be/EBtDvvgLxT0", "https://youtu.be/6gJ3C9MGDKg", "https://youtu.be/sUvJkSdTQLk", "https://youtu.be/1sQExkWP0zc"
+  "https://youtu.be/nA0bivxcBrc", "https://youtu.be/QFgRowa7-IU", "https://youtu.be/Ymy73JrkkZk", "https://youtu.be/as7WGSNGmKI", "https://youtu.be/XRtTtHN7M6A", "https://youtu.be/ZztHrBFjoZU", "https://youtu.be/FiaG41B0E-c", "https://youtu.be/EBtDvvgLxT0", "https://youtu.be/6gJ3C9MGDKg", "https://youtu.be/sUvJkSdTQLk", "https://youtu.be/1sQExkWP0zc",
+  //Dateless Bar "Old Adam"
+  "https://youtu.be/ldVhVxQsu9E", "https://youtu.be/a9IA62f7mJg", "https://youtu.be/FZd4UpZ2Jds", "https://youtu.be/yk2k9VkgLuw", "https://youtu.be/89TlyeCVeSA", "https://youtu.be/VBJK9QPoAek", "https://youtu.be/8QxmOxmeJLY", "https://youtu.be/LGERDyEpO44", "https://youtu.be/byhrb9uBYdw", "https://youtu.be/xE9pjVmTdKg"
 ]
 
 const comment = [//Highly Responsive to Prayers
