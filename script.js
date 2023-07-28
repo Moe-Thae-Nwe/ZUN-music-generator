@@ -115,7 +115,9 @@ const song = [//Highly Responsive to Prayers
   //Legacy of Lunatic Kingdom
   "The Space Shrine Maiden Appears", "Unforgettable, the Nostalgic Greenery", "The Rabbit Has Landed", "The Lake Reflects the Cleansed Moonlight", "September Pumpkin", "The Mysterious Shrine Maiden Flying Through Space", "Eternal Spring Dream", "The Frozen Eternal Capital", "Reversed Wheel of Fortune", "Faraway Voyage of 380,000 Kilometers", "Pierrot of the Star-Spangled Banner", "The Sea that Reflects One's Home Planet", "Pure Furies ~ Whereabouts of the Heart", "A World of Nightmare Never Seen Before", "Pandemonic Planet", "The Moon as Seen from the Shrine", "The Space Shrine Maiden Returns Home",
   //Dr. Latency's Freak Report
-  "The Childlike Duo's Naturalis Historia", "The Frozen Eternal Capital", "Dr. Latency's Sleepless Eyes", "September Pumpkin", "An Instant that Exceeds Planck's Time", "Schrödinger's Bakeneko", "The Shining Needle Castl Sinking in the Air", "The Taboo Membrane Wall", "The Sea that Reflects One's Home Planet", "Pure Furies ~ Whereabouts of the Heart", "Eternal Transient Reign"
+  "The Childlike Duo's Naturalis Historia", "The Frozen Eternal Capital", "Dr. Latency's Sleepless Eyes", "September Pumpkin", "An Instant that Exceeds Planck's Time", "Schrödinger's Bakeneko", "The Shining Needle Castl Sinking in the Air", "The Taboo Membrane Wall", "The Sea that Reflects One's Home Planet", "Pure Furies ~ Whereabouts of the Heart", "Eternal Transient Reign",
+  //Dateless Bar "Old Adam"
+  "\"Old Adam\" Bar", "The Darkness Brought in by Swallowstone Naturalis Historia", "Reverse Ideology", "Outsider Cocktail", "Omiwa Legend", "Pandemonic Planet", "Adventurer's Tavern of the Old World", "Rural Makai City Esoteria", "The Lost Emotion", "Hangover of Bedfellows Dreaming Differently"
 ]
 
 const src = [//Highly Responsive to Prayers
