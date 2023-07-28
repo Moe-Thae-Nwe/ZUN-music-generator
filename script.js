@@ -119,7 +119,9 @@ const song = [//Highly Responsive to Prayers
   //Dateless Bar "Old Adam"
   "\"Old Adam\" Bar", "The Darkness Brought in by Swallowstone Naturalis Historia", "Reverse Ideology", "Outsider Cocktail", "Omiwa Legend", "Pandemonic Planet", "Adventurer's Tavern of the Old World", "Rural Makai City Esoteria", "The Lost Emotion", "Hangover of Bedfellows Dreaming Differently",
   //Forbidden Scrollery
-  "bibliophile with a Deciphering Eye", "Humans and Youkai Coming and Going at the Canal", "The Rabbit Has Landed"
+  "Bibliophile with a Deciphering Eye", "Humans and Youkai Coming and Going at the Canal", "The Rabbit Has Landed",
+  //Hidden Star in Four Season
+  "The Sky Where cherry Blossoms Flutter Down", "A Star of Hope Rises in the Blue Sky", "A Midsummer Fairy's Dream", "The Colorless Wind on Youkai Mountain", "Deep-Mountain Encounter", "Swim in a Cherry Blossom-Colored Sea", "A Pair of Divine Beasts", "Illusionary White Traveler", "The Magic Straw-hat Jizo", "Does the Forbidden Door Lead to This World, or the World Beyond?", "Crazy Backup Dancers", "Into Backdoor", "The Concealed Four Seasons", "No More going Through Doors", "Secret God Matara ~ Hidden Star in All Seasons", "Unnatural Nature", "White Traveler"
 ]
 
 const src = [//Highly Responsive to Prayers
