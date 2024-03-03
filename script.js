@@ -303,7 +303,7 @@ const vid = [//Highly Responsive to Prayers
   //Seasonal Dream Vision
   "https://www.youtube.com/embed/pigZsd1IvK8?si=OO1FDXNDCz66ElbD",
   //Shoot the Bullet
-  "https://youtu.be/fVzfz75JvwM", "https://youtu.be/Sk9kCHmQy4M", "https://youtu.be/xebXr0Rzh4Q", "https://youtu.be/KR9RSo3P80M", "https://youtu.be/c-9VnF19J1c", "https://youtu.be/L-cWqgWIeEU",
+  "https://www.youtube.com/embed/fVzfz75JvwM?si=CT2GPylY2pUaYQ8a", "https://www.youtube.com/embed/Sk9kCHmQy4M?si=h7ke_S43fjVvnVWv", "https://www.youtube.com/embed/xebXr0Rzh4Q?si=8wbGRt-3Fa2wMa0v", "https://www.youtube.com/embed/KR9RSo3P80M?si=hzUHlZ72RMgJaZP9", "https://www.youtube.com/embed/c-9VnF19J1c?si=-9uaW2ROJ5dlT7Qv", "https://www.youtube.com/embed/L-cWqgWIeEU?si=WwiM3EFI3szFp6k3",
   //Retrospective 53 Minutes
   "https://youtu.be/MSfiGbqF2So", "https://youtu.be/bif_P9IBUSU", "https://youtu.be/vDUO9ioQIwA", "https://youtu.be/yuNLd2oHurA", "https://youtu.be/CfA3GZPDEIM", "https://youtu.be/w2gVa8edMqE", "https://youtu.be/kZHsuboczTc", "https://youtu.be/1ombYqs8_Wo", "https://youtu.be/KzURokQGeyc", "https://youtu.be/dEq7Rzo2CRU", "https://youtu.be/-ZSqwA-Ns5k",
   //Akyu's Untouched Score vol.1
