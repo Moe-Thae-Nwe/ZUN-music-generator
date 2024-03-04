@@ -339,12 +339,12 @@ const vid = [//Highly Responsive to Prayers
   //Strange and Bright Nature Deity 2
   "https://www.youtube.com/embed/IQ-CiXphMsk?si=zjGA3vhqmvYaO6TD", "https://www.youtube.com/embed/-j8XFLnzUcE?si=bhtTQ8Dza9GeLTmd", "https://www.youtube.com/embed/Z6TBKjbdDew?si=fNMeDsWllVAmfQm9", "https://www.youtube.com/embed/MmY3tJaZj7M?si=NDIh7R3O2xmEvMdK",
   //The Grimoire of Marisa
-  "https://youtu.be/aXaYVSaki5s", "https://youtu.be/IXgtcMAtWAs",
+  "https://www.youtube.com/embed/aXaYVSaki5s?si=yJjnOA9ov79Wj379", "https://www.youtube.com/embed/IXgtcMAtWAs?si=z1kypHMSewpN9wLf",
   //Undefined Fantastic Object
   "https://youtu.be/glz5e97Q8do", "https://youtu.be/xtXmFoFensQ", "https://youtu.be/nJjN8hsTqk0", "https://youtu.be/ncfvilGTM50", "https://youtu.be/Y7FSM3nlujE", "https://youtu.be/HyDaz3Tqdg8", "https://youtu.be/a4wb0LjJ5mg", "https://youtu.be/jJA9BHJ8xX0", "https://youtu.be/VBruV3zhFcQ", "https://youtu.be/XpXVUSc2grM", "https://youtu.be/wnpq4o0PfnM", "https://youtu.be/80_Q5O7Y7Lg", "https://youtu.be/FKWvNr3BoFw", "https://youtu.be/epb0OaYuFSE", "https://youtu.be/Bs3Eu0x8iE0", "https://youtu.be/OkN3wAz4g8Q", "https://youtu.be/Ao3KOKrYiJI",
   //Touhou Hisoutensoku
   "https://youtu.be/ynirQdR3WPw", "https://youtu.be/PAkM8HJ1Zmg", "https://youtu.be/XI0wWhv8ywk", "https://youtu.be/2mG8KIXPY24", "https://youtu.be/Kv191pu2x7I", "https://youtu.be/75FqhZYdjGA", "https://youtu.be/SezHiUaddRE", "https://youtu.be/9w8ohs8DnYQ", "https://youtu.be/F9u6fTQWnDQ", "https://youtu.be/BDBKDL20PfI", "https://youtu.be/oX8l9heZQW4", "https://youtu.be/jtUi6ipfLhg", "https://youtu.be/vd84cvDgHd8", "https://youtu.be/SN2a_bwJbhg", "https://youtu.be/oSrF9RreS9Q", "https://youtu.be/MKpm5pNdAHQ", "https://youtu.be/_tS8OG0af5k", "https://youtu.be/7xdWI3Ta_5g",
-  //Strange and Bright Nauture Deity
+  //Strange and Bright Nauture Deity 3
   "https://youtu.be/4AEEiFqTtNA", "https://youtu.be/QeyZDohdd2Q",
   //Touhou Hisoutensoku OST
   "https://youtu.be/zXKVsRcEeIc", "https://youtu.be/bGdo1rzJDLc", "https://youtu.be/1Mul3CNjruQ", "https://youtu.be/NHFZUMOYcQA", "https://youtu.be/MLcvP8T6LwQ", "https://youtu.be/PENeDxk2sPw", "https://youtu.be/5_Xl7Dihupk", "https://youtu.be/CWzwRtFAf-o", "https://youtu.be/lnPBXyGsHpE", "https://youtu.be/reKT6tP-PRU", "https://youtu.be/QzJblQcLrZk", "https://youtu.be/SZ18buRUPGU", "https://youtu.be/CqzLOgfjP4s", "https://youtu.be/TDF1-rQikvk", "https://youtu.be/BWOyxSZKYUY", "https://youtu.be/jYOOKehd2mY", "https://youtu.be/VBbGR8HeiUE", "https://youtu.be/vDptzL6FWzI", "https://youtu.be/p4yAtw0nPEI", "https://youtu.be/NtrTL1g5TZI", "https://youtu.be/5_EPgVo89Ok",
