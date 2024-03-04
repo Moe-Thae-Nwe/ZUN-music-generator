@@ -329,7 +329,7 @@ const vid = [//Highly Responsive to Prayers
   //Strange and Bright Nature Deity 1
   "https://www.youtube.com/embed/BO1_B_ejI3U?si=mnXlwedjRRb9H2Do", "https://www.youtube.com/embed/HYWCnUtPKag?si=iE_sN-dN6SHOgZGf", "https://www.youtube.com/embed/tbRmIfyPlLs?si=rwX5bvHSBO5MgTZ3",
   //Silent Sinner in Blue
-  "https://youtu.be/RW6R0KxECN4", "https://youtu.be/XHRy6OKboUE", "https://youtu.be/bXreUVM8Avc",
+  "https://www.youtube.com/embed/RW6R0KxECN4?si=d7ss_OEt1yoZF520", "https://www.youtube.com/embed/XHRy6OKboUE?si=WUBMRD3PB7FriKCF", "https://www.youtube.com/embed/bXreUVM8Avc?si=-rmp-bTI8lQ0Egtn",
   //Scarlet Weather Rhapsody
   "https://youtu.be/b657x9xoz4E", "https://youtu.be/JgAthv1PagY", "https://youtu.be/pSu67Hf25Lg", "https://youtu.be/RdKNn10Mx8M", "https://youtu.be/KypuhjbMk4w", "https://youtu.be/ZeMT2fEcJuc", "https://youtu.be/Rk20vzKF_uk", "https://youtu.be/B87J8NsO6zc", "https://youtu.be/3iC-AANQJT8", "https://youtu.be/ZdWfh0HVgWs", "https://youtu.be/_cZuNi6HKPU", "https://youtu.be/xzRFNn8PRVE", "https://youtu.be/1ScjvL0kmdQ", "https://youtu.be/ESDAxx07rtw", "https://youtu.be/3SuUNddHmPs", "https://youtu.be/Iys9g7Nvkbk", "https://youtu.be/H2UzZ_I6q7I", "https://youtu.be/ZjtkMdbNetA", "https://youtu.be/N_fKe18g-Rk", "https://youtu.be/I6NhO1eb2Mk", "https://youtu.be/APakjHXggQU", "https://youtu.be/-Pnh5N0Ojuc", "https://youtu.be/gG9mbNusCk0", "https://youtu.be/Um59kuIzrmM", "https://youtu.be/L9QBV1S5Bjs", "https://youtu.be/WSWzNE-tBQE", "https://youtu.be/CaKpo6ndLls", "https://youtu.be/6eIo68ADGgM", "https://youtu.be/SbBP9L3sopI", "https://youtu.be/XcVekIb1HyA", "https://youtu.be/bj498NXrx-Y",
   //Subterranean Animism
