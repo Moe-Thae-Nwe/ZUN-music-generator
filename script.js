@@ -327,7 +327,7 @@ const vid = [//Highly Responsive to Prayers
   //Akyu's Untouched Score vol.5
   "https://www.youtube.com/embed/uO6tAAFKJ9A?si=7m4aHyESsV2GfW69", "https://www.youtube.com/embed/Aroh_qKHZLA?si=KsvWiSRP2KX3fcKi", "https://www.youtube.com/embed/qUoh14VzvYE?si=vhb1F8wQJuQ0hly4", "https://www.youtube.com/embed/DDw5U8HPV7I?si=XTxKj_lLtdHbbyQR", "https://www.youtube.com/embed/GeF5eqi0O54?si=VyRL46NdI5G2-wR7", "https://www.youtube.com/embed/HaOf8zcGqY8?si=eCAylrXRmGeuCzHv", "https://www.youtube.com/embed/LRcADk-yDCk?si=bMcsZ8iWAfu3d3Ii", "https://www.youtube.com/embed/eF3YWlOLbdI?si=T4mmdV-1eB0BnCyg", "https://www.youtube.com/embed/bQeEkDUgtag?si=p-Oi7AAtbwVe7PHm", "https://www.youtube.com/embed/z6wJCpsv4LI?si=2xRwS-bFF0ImjVU8", "https://www.youtube.com/embed/g4MOY0q0XmA?si=aGn4xLWldpR4Aufn", "https://www.youtube.com/embed/4jtOntnFrZQ?si=O_Njo0Yt2j17Havv", "https://www.youtube.com/embed/8PNf7-Bql1c?si=WfdLdDxV6lugsK9V", "https://www.youtube.com/embed/41jP2HwRkt0?si=2vjl0_x4Mip4C9Fs", "https://www.youtube.com/embed/0uUpiJ9t1zY?si=QWk_Skb0VxDXcQcu",
   //Strange and Bright Nature Deity 1
-  "https://youtu.be/BO1_B_ejI3U", "https://youtu.be/HYWCnUtPKag", "https://youtu.be/tbRmIfyPlLs",
+  "https://www.youtube.com/embed/BO1_B_ejI3U?si=mnXlwedjRRb9H2Do", "https://www.youtube.com/embed/HYWCnUtPKag?si=iE_sN-dN6SHOgZGf", "https://www.youtube.com/embed/tbRmIfyPlLs?si=rwX5bvHSBO5MgTZ3",
   //Silent Sinner in Blue
   "https://youtu.be/RW6R0KxECN4", "https://youtu.be/XHRy6OKboUE", "https://youtu.be/bXreUVM8Avc",
   //Scarlet Weather Rhapsody
