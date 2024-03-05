@@ -357,7 +357,7 @@ const vid = [//Highly Responsive to Prayers
   //Oriental Sacred Place 2 
   "https://www.youtube.com/embed/mPYB_kgzbbc?si=onX1KlLGTlFFgRDF", "https://www.youtube.com/embed/YOOQvpMzI_k?si=D1LL6jzAUd0pI8hg", "https://www.youtube.com/embed/SY21CBySBYs?si=Cl_xLNJO03BltpSm",
   //Unknown Flower, Mesmerizing Journey
-  "https://youtu.be/FroLTY_mfDA", "https://youtu.be/3RNKcib1yk8", "https://youtu.be/10_TH4pRRKM",
+  "https://www.youtube.com/embed/FroLTY_mfDA?si=f-1DX7FFsN-my-mN", "https://www.youtube.com/embed/3RNKcib1yk8?si=OaOQaYq3LW6ronWL", "https://www.youtube.com/embed/10_TH4pRRKM?si=uMRCTrbS740xhmP4",
   //Ten Desires
   "https://youtu.be/z9hdHtJeRBY", "https://youtu.be/pQd15I-_Xv8", "https://youtu.be/PZRFbGfM7fg", "https://youtu.be/vTIfAj0cWY4", "https://youtu.be/2VRdglkSVns", "https://youtu.be/kcdjfwRpx1c", "https://youtu.be/LK3jUUe9Wp8", "https://youtu.be/W7il8TUlsEU", "https://youtu.be/lRGcHiPD-ZM", "https://youtu.be/I3AoSP5Eo7Q", "https://youtu.be/esVOgN3B2wo", "https://youtu.be/r8AsFPugDoI", "https://youtu.be/GZ6kn6H0G_o", "https://youtu.be/HsddwtpefOI", "https://youtu.be/KI4eyTLcX2M", "https://youtu.be/JsNZS0qbciY", "https://youtu.be/Ogksn6mRlnw",
   //Oriental Sacred Place 3
