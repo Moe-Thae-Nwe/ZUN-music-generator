@@ -353,7 +353,7 @@ const vid = [//Highly Responsive to Prayers
   //Oriental Sacred Place 1
   "https://www.youtube.com/embed/fJsBj479YSU?si=wWG1_v2C_kYHA90Z", "https://www.youtube.com/embed/VDYHmdY5glw?si=gMREmmDdwXwM5Hi-",
   //Fairy Wars
-  "https://youtu.be/NYQHw9bt34o", "https://youtu.be/IrCcyn7qzdA", "https://youtu.be/DK_rjsVRFkI", "https://youtu.be/BAHrbN-h5yg", "https://youtu.be/2xkLbLe8xBw", "https://youtu.be/vNR0N84u-TA", "https://youtu.be/7th8POP32sI", "https://youtu.be/Ndy0uXhlGRs", "https://youtu.be/24ls7RRK9n4", "https://youtu.be/n1EdWjw_wmQ",
+  "https://www.youtube.com/embed/NYQHw9bt34o?si=PUHoYRwkfDrsPD4R", "https://www.youtube.com/embed/IrCcyn7qzdA?si=q9p6dHjFhGSeF_MB", "https://www.youtube.com/embed/DK_rjsVRFkI?si=-q-qKk1H7SWLimxY", "https://www.youtube.com/embed/BAHrbN-h5yg?si=BALCrvs0ZUxFoBL3", "https://www.youtube.com/embed/2xkLbLe8xBw?si=nSwVxFslimgqks80", "https://www.youtube.com/embed/vNR0N84u-TA?si=eTjtWHW5BFO96tpm", "https://www.youtube.com/embed/7th8POP32sI?si=ETGopWUJZP3hXC1v", "https://www.youtube.com/embed/Ndy0uXhlGRs?si=CaXFwgvX-_CAo7iD", "https://www.youtube.com/embed/24ls7RRK9n4?si=nsQKvpoL_Y5GwbFK", "https://www.youtube.com/embed/n1EdWjw_wmQ?si=z5NFALLyQoJimNse",
   //Oriental Sacred Place 2
   "https://youtu.be/mPYB_kgzbbc", "https://youtu.be/YOOQvpMzI_k", "https://youtu.be/SY21CBySBYs",
   //Unknown Flower, Mesmerizing Journey
