@@ -363,7 +363,7 @@ const vid = [//Highly Responsive to Prayers
   //Oriental Sacred Place 3
   "https://www.youtube.com/embed/bL3KnIqMfAU?si=-6AYlUnNdZLc0opF", "https://www.youtube.com/embed/PLsgoWJOJB4?si=cWm3-fARho-2JoWJ", "https://www.youtube.com/embed/cXmNy1On5Yw?si=FNFW5ejc4JJVFZrI",
   //Trojan Green Asteroid
-  "https://youtu.be/id-eiM2qIGY", "https://youtu.be/3imym6ZTaM0", "https://youtu.be/_Dh_VoS8Adc", "https://youtu.be/hMbqdJH1Pys", "https://youtu.be/ngZXndUnQgc", "https://youtu.be/RlxoESG92Ek", "https://youtu.be/lLIfPbGIs_c", "https://youtu.be/N1fyQmKD20w", "https://youtu.be/6vaYNJ5MsKE", "https://youtu.be/sIugx6XL2Qg",
+  "https://www.youtube.com/embed/id-eiM2qIGY?si=z_PsphhCHwDMSp3w", "https://www.youtube.com/embed/3imym6ZTaM0?si=Q6hGTyzDYj58jYp2", "https://www.youtube.com/embed/_Dh_VoS8Adc?si=clT5ejjRW9YNXo88", "https://www.youtube.com/embed/hMbqdJH1Pys?si=ET-CdWHJMUr5UvEl", "https://www.youtube.com/embed/ngZXndUnQgc?si=cAymkiOu-_1x7xIf", "https://www.youtube.com/embed/RlxoESG92Ek?si=3uotGZWnJCrkz_tD", "https://www.youtube.com/embed/lLIfPbGIs_c?si=WqpClQaLYz8PVBrE", "https://www.youtube.com/embed/N1fyQmKD20w?si=1V3BKPalsu_hqnCn", "https://www.youtube.com/embed/6vaYNJ5MsKE?si=ajY62Nweb_yVXedp", "https://www.youtube.com/embed/sIugx6XL2Qg?si=Okjb1fIVVvtM-jOb",
   //Neo-teraditionalism of Japan
   "https://youtu.be/6xLwEZFzeJA", "https://youtu.be/iUhU3K4S3rI", "https://youtu.be/eLrLBcHMEO4", "https://youtu.be/1kF_1L_jNNg", "https://youtu.be/Hn6EnmeOT0c", "https://youtu.be/K2GQjHxjm58", "https://youtu.be/UpT-wue13Y4", "https://youtu.be/9tJnvsrve08", "https://youtu.be/VCM7o05HrOI", "https://youtu.be/iuURRQt1H7Q",
   //Hopeless Masquerade
