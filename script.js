@@ -351,7 +351,7 @@ const vid = [//Highly Responsive to Prayers
   //Double Spoiler
   "https://www.youtube.com/embed/RRwe9JjgQQo?si=J5cQI23wpootncqd", "https://www.youtube.com/embed/wPP86L_OQJA?si=whWTj6I1280IQ3cS", "https://www.youtube.com/embed/oFO1dBEUmkQ?si=mZIdBUrmq7Kdc0TF", "https://www.youtube.com/embed/hVLyMWyPkDE?si=_2vKjRFzBabCemNw", "https://www.youtube.com/embed/hHb-TzkUzu4?si=DywK98rs4BnK96B2", "https://www.youtube.com/embed/Qzmuge7LGlE?si=QtKzfaETV-qdt78R",
   //Oriental Sacred Place 1
-  "https://youtu.be/fJsBj479YSU", "https://youtu.be/VDYHmdY5glw",
+  "https://www.youtube.com/embed/fJsBj479YSU?si=wWG1_v2C_kYHA90Z", "https://www.youtube.com/embed/VDYHmdY5glw?si=gMREmmDdwXwM5Hi-",
   //Fairy Wars
   "https://youtu.be/NYQHw9bt34o", "https://youtu.be/IrCcyn7qzdA", "https://youtu.be/DK_rjsVRFkI", "https://youtu.be/BAHrbN-h5yg", "https://youtu.be/2xkLbLe8xBw", "https://youtu.be/vNR0N84u-TA", "https://youtu.be/7th8POP32sI", "https://youtu.be/Ndy0uXhlGRs", "https://youtu.be/24ls7RRK9n4", "https://youtu.be/n1EdWjw_wmQ",
   //Oriental Sacred Place 2
