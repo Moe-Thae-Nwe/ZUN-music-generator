@@ -383,7 +383,7 @@ const vid = [//Highly Responsive to Prayers
   //Dateless Bar "Old Adam"
   "https://www.youtube.com/embed/ldVhVxQsu9E?si=hZbCFrfT9-ct9aXG", "https://www.youtube.com/embed/a9IA62f7mJg?si=fpvYLFp5bZU3rM16", "https://www.youtube.com/embed/FZd4UpZ2Jds?si=Qf56mVUYypP8tzwL", "https://www.youtube.com/embed/yk2k9VkgLuw?si=ebcVNo3JhXJAdFVI", "https://www.youtube.com/embed/89TlyeCVeSA?si=XQkfxtW_Eu73wsyT", "https://www.youtube.com/embed/VBJK9QPoAek?si=ndZJdYQbB0sC_yE7", "https://www.youtube.com/embed/8QxmOxmeJLY?si=hzcwzQTCLnyW20zP", "https://www.youtube.com/embed/LGERDyEpO44?si=QD7TLcv2NlgCbn4A", "https://www.youtube.com/embed/byhrb9uBYdw?si=ySjkDRS6XGJNp6bA", "https://www.youtube.com/embed/xE9pjVmTdKg?si=_7X48BAGSSUEmmck",
   //Forbidden Scrollery
-  "https://youtu.be/VM-daGsqOTc", "https://youtu.be/gz4SpXpKbF", "https://youtu.be/mxlnkzshWCU",
+  "https://www.youtube.com/embed/VM-daGsqOTc?si=BZvFbdj2fgdU44_c", "https://www.youtube.com/embed/gz4SpXpKbF4?si=AZg6UCiuwflkXNt9", "https://www.youtube.com/embed/mxlnkzshWCU?si=m2DV1prkoBn2zp_D",
   //Hidden Star in Four Seasons
   "https://youtu.be/AXmqf9sfIwA", "https://youtu.be/Nt3kUp1qAoM", "https://youtu.be/uhmYiP2vDK4", "https://youtu.be/f9xdMzUTBsw", "https://youtu.be/mFtRP5enYAE", "https://youtu.be/Tn3AJDX7aSY", "https://youtu.be/Qw9gNU0ZMX4", "https://youtu.be/DxTr51RmEjE", "https://youtu.be/lfS5EeXWiOQ", "https://youtu.be/_Rh9x95quvk", "https://youtu.be/JdsAE6gwoyo", "https://youtu.be/jIJVo0T676k", "https://youtu.be/hTLz5k-3R9s", "https://youtu.be/ZoglwNF1ZJw", "https://youtu.be/IzCfAU-O1bU", "https://youtu.be/elfSj4Ui_0I", "https://youtu.be/1i9KMjBVU5o"
   //Antinomy of Common Flower
