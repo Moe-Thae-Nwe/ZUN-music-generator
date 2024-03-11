@@ -9,7 +9,7 @@ const song = [//Highly Responsive to Prayers
   //Mystic Square
   "Bizarre Romantic Story ~ Mystic Square", "Dream Express", "Magic Square", "Dimension of Reverie", "Spiritual Heaven", "Romantic Children", "Plastic Mind", "Maple Wise", "Forbidden Magic", "Crimson Maiden ~ Crimson Dead!!", "Treacherous Maiden ~ Judas Kiss", "The Last Judgement", "Doll of Misery", "End of the World ~ World's End", "Legendary Illusion ~ Infinite Being", "Alice in Wonderland", "The Grimoire of Alice", "Shinto Shrine", "Endless", "Eternal Paradise", "Mystic Dream", "Peaceful Romancer", "Soul's Resting Place",
   //ZUN's Strange Works
-  "Magician of the Twilight", "Magic of Life", "Plastic Space", "Inventive City", "Fantasy Corridor", "Hourai Illusion ~ Far East"
+  "Magician of the Twilight", "Magic of Life", "Plastic Space", "Inventive City", "Fantasy Corridor", "Hourai Illusion ~ Far East",
   //Shuusou Gyoku
   "Autumn Frost Orb ~ Clockworks", "False Strawberry", "Primrose Shiver", "Fantastic Imperial Capital", "Disastrous Gemini", "Illusion of Flowers, Sky of Scarlet Dreams", "Firmament Army", "Illusionary Sputnik Night", "Mechanical Circus ~ Reverie", "Illusionary Girl from Canaveral", "Magical Girl's Crusade", "Antique Terror", "Dream Machine ~ Innocent Power", "Fantasy Science ~ Doll's Phantom", "Girl's Divinity ~ Pandora's Box", "Silk Road Alice", "The Witches' Ball ~ Magus", "Dichromantic Lotus Butterfly ~ Ancients", "Herselves", "Titled Maid", "Fly Above Hatoyama at Night",
   //Torte Le Magic
