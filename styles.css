@@ -1,10 +1,18 @@
-html{
-  /*for pc light theme*/
-  background: url(images.png);
+* {
+  font-family: Silkscreen;
 }
 
-div {
-  background: rgba(255, 255, 255, 0.5);
-  margin: auto;
-  width: 75%;
+html{
+  /*for pc light theme*/
+  background-color: lightblue;
+}
+
+button {
+  width: 98%;
+  height: 40px;
+  border-width: 5px;
+}
+
+button:active {
+  border-width: 1px;
 }
