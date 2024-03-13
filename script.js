@@ -507,7 +507,7 @@ const comment = [//Highly Responsive to Prayers
   //Touhou Hisoutensoku
   "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
   //Strange and Bright Nauture Deity
-  "This song was made to invoke the image of the daily life of the fairies of Gensokyo, eating, sleeping and playing. \n Overflowing with coriosity like a team of child detectives. \n Fairies are like children, but their inquisitiveness is superhuman. \n I tried to put it a bit of a precocious feeling in this song, too. \n It's fine for these three to be like that every now and then, isn't it?", "I wrote this song while imagining the final chapter \"Two Worlds\". \n Even though I say that, it's not like they are all that related. \n It's a mix of themes of the outside world and Gensokyo, topped with Yukari. \n It's surprising how there isn't any room for the Three Fairies.",
+  "This song was made to invoke the image of the daily life of the fairies of Gensokyo, eating, sleeping and playing. \n Overflowing with curiosity like a team of child detectives. \n Fairies are like children, but their inquisitiveness is superhuman. \n I tried to put it a bit of a precocious feeling in this song, too. \n It's fine for these three to be like that every now and then, isn't it?", "I wrote this song while imagining the final chapter \"Two Worlds\". \n Even though I say that, it's not like they are all that related. \n It's a mix of themes of the outside world and Gensokyo, topped with Yukari. \n It's surprising how there isn't any room for the Three Fairies.",
   //Touhou Hisoutensoku OST
   "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
   //Double Spoiler
