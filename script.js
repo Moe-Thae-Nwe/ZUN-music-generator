@@ -568,7 +568,7 @@ const comment = [//Highly Responsive to Prayers
 
 function generate() {
   let randint = Math.floor(Math.random() * comment.length);
-  document.getElementById("name").innerText = song[randint];
+  document.getElementById("song").innerText = song[randint];
   console.log(song.length);
   document.getElementById("source").innerText = src[randint];
   console.log(src.length);
