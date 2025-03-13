@@ -1,10 +1,10 @@
 * {
-  font-family: Silkscreen;
+  font-family: Dongle;
+  color: #414147;
 }
 
 html{
-  /*for pc light theme*/
-  background-color: lightblue;
+  background-color: #e6e6fa;
 }
 
 button {
