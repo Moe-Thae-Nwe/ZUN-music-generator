@@ -1,6 +1,7 @@
 * {
   font-family: Dongle;
   color: #414147;
+  font-size: 30px;
 }
 
 html{
@@ -15,4 +16,8 @@ button {
 
 button:active {
   border-width: 1px;
+}
+
+h1 {
+  font-size: 40px;
 }
